@@ -1,9 +1,11 @@
+# gets permission (token)
+
 import requests
 import base64
 
-# App credentials from Kroger developer portal
-CLIENT_ID = "charlottesvillegroceriesfinderproject-bbcdx9xp"
-CLIENT_SECRET = "FQTNv5vcKXH8NVye9qNInHoh29B5MHF6YikApMRA"
+# App credentials from Kroger developer portal (removed for now)
+CLIENT_ID = "fake_id"
+CLIENT_SECRET = "fake_secret"
 
 # Kroger token endpoint
 url = "https://api.kroger.com/v1/connect/oauth2/token"
