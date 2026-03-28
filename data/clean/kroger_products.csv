@@ -1,0 +1,161 @@
+store_id,query_term,product_id,upc,brand,item_name,category,price_regular,price_promo,snap_eligible,country_origin,data_source
+09700177,milk,0007203673810,0007203673810,Harris Teeter,Harris Teeter® Vitamin D Whole Milk,Dairy,2.29,,True,null,real_kroger
+09700177,milk,0001111042908,0001111042908,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Gallon,Dairy,6.89,,True,UNITED STATES,real_kroger
+09700177,milk,0009396651500,0009396651500,Organic Valley,Organic Valley® 2% Reduced Fat Milk Half Gallon,Natural & Organic,5.99,,True,UNITED STATES,real_kroger
+09700177,milk,0001111042850,0001111042850,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700177,milk,0001111042852,0001111042852,Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700177,milk,0007203673802,0007203673802,Harris Teeter,Harris Teeter™ Vitamin D Whole Milk Gallon,Dairy,3.89,,True,null,real_kroger
+09700177,milk,0007203673813,0007203673813,Harris Teeter,Harris Teeter™ 2% Reduced Fat Milk,Dairy,2.19,,True,null,real_kroger
+09700177,milk,0007203673805,0007203673805,Harris Teeter,Harris Teeter 2% Reduced Fat Milk,Dairy,3.79,,True,null,real_kroger
+09700177,milk,0001111042856,0001111042856,Simple Truth Organic,Simple Truth Organic® Skim Fat Free Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700177,milk,0004138309036,0004138309036,Lactaid,Lactaid® Lactose Free Whole Milk Half Gallon,Dairy,4.99,3.5,True,UNITED STATES,real_kroger
+09700177,milk,0007203673810,0007203673810,Harris Teeter,Harris Teeter® Vitamin D Whole Milk,Dairy,2.29,,True,null,real_kroger
+09700177,milk,0001111042908,0001111042908,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Gallon,Dairy,6.89,,True,UNITED STATES,real_kroger
+09700177,milk,0009396651500,0009396651500,Organic Valley,Organic Valley® 2% Reduced Fat Milk Half Gallon,Natural & Organic,5.99,,True,UNITED STATES,real_kroger
+09700177,milk,0001111042850,0001111042850,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700177,milk,0001111042852,0001111042852,Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700177,milk,0007203673802,0007203673802,Harris Teeter,Harris Teeter™ Vitamin D Whole Milk Gallon,Dairy,3.89,,True,null,real_kroger
+09700177,milk,0007203673813,0007203673813,Harris Teeter,Harris Teeter™ 2% Reduced Fat Milk,Dairy,2.19,,True,null,real_kroger
+09700177,milk,0007203673805,0007203673805,Harris Teeter,Harris Teeter 2% Reduced Fat Milk,Dairy,3.79,,True,null,real_kroger
+09700177,milk,0001111042856,0001111042856,Simple Truth Organic,Simple Truth Organic® Skim Fat Free Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700177,milk,0004138309036,0004138309036,Lactaid,Lactaid® Lactose Free Whole Milk Half Gallon,Dairy,4.99,3.5,True,UNITED STATES,real_kroger
+02900359,milk,0001111042908,0001111042908,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Gallon,Dairy,7.79,,True,UNITED STATES,real_kroger
+02900359,milk,0001111041660,0001111041660,Kroger,Kroger® 1% Lowfat Milk Gallon,Dairy,2.89,,True,UNITED STATES,real_kroger
+02900359,milk,0001111042850,0001111042850,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Half Gallon,Natural & Organic,4.69,,True,UNITED STATES,real_kroger
+02900359,milk,0001111042852,0001111042852,Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk Half Gallon,Natural & Organic,4.69,,True,UNITED STATES,real_kroger
+02900359,milk,0001111040101,0001111040101,Kroger,Kroger® Vitamin D Whole Milk Gallon,Dairy,3.19,,True,UNITED STATES,real_kroger
+02900359,milk,0001111042315,0001111042315,Kroger,Kroger® Skim Milk Gallon,Dairy,2.79,,True,UNITED STATES,real_kroger
+02900359,milk,0001111041600,0001111041600,Kroger,Kroger® 2% Reduced Fat Milk Half Gallon,Dairy,1.99,,True,UNITED STATES,real_kroger
+02900359,milk,0001111041700,0001111041700,Kroger,Kroger® 2% Reduced Fat Milk Gallon,Dairy,2.99,,True,UNITED STATES,real_kroger
+02900359,milk,0001111040601,0001111040601,Kroger,Kroger® Vitamin D Whole Milk Half Gallon,Dairy,2.29,,True,UNITED STATES,real_kroger
+02900359,milk,0004138309036,0004138309036,Lactaid,Lactaid® Lactose Free Whole Milk Half Gallon,Dairy,4.99,4.49,True,UNITED STATES,real_kroger
+02900334,milk,0001111041660,0001111041660,Kroger,Kroger® 1% Lowfat Milk Gallon,Dairy,2.89,,True,UNITED STATES,real_kroger
+02900334,milk,0001111042908,0001111042908,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Gallon,Dairy,7.79,,True,UNITED STATES,real_kroger
+02900334,milk,0001111042850,0001111042850,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Half Gallon,Natural & Organic,4.69,,True,UNITED STATES,real_kroger
+02900334,milk,0001111042852,0001111042852,Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk Half Gallon,Natural & Organic,4.69,,True,UNITED STATES,real_kroger
+02900334,milk,0001111040101,0001111040101,Kroger,Kroger® Vitamin D Whole Milk Gallon,Dairy,3.19,,True,UNITED STATES,real_kroger
+02900334,milk,0001111041600,0001111041600,Kroger,Kroger® 2% Reduced Fat Milk Half Gallon,Dairy,1.99,,True,UNITED STATES,real_kroger
+02900334,milk,0001111042315,0001111042315,Kroger,Kroger® Skim Milk Gallon,Dairy,2.79,,True,UNITED STATES,real_kroger
+02900334,milk,0001111040601,0001111040601,Kroger,Kroger® Vitamin D Whole Milk Half Gallon,Dairy,2.29,,True,UNITED STATES,real_kroger
+02900334,milk,0001111041700,0001111041700,Kroger,Kroger® 2% Reduced Fat Milk Gallon,Dairy,2.99,,True,UNITED STATES,real_kroger
+02900334,milk,0004138309036,0004138309036,Lactaid,Lactaid® Lactose Free Whole Milk Half Gallon,Dairy,4.99,4.49,True,UNITED STATES,real_kroger
+09700132,milk,0001111042908,0001111042908,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Gallon,Dairy,6.89,,True,UNITED STATES,real_kroger
+09700132,milk,0007203673810,0007203673810,Harris Teeter,Harris Teeter® Vitamin D Whole Milk,Dairy,2.29,,True,null,real_kroger
+09700132,milk,0009396651500,0009396651500,Organic Valley,Organic Valley® 2% Reduced Fat Milk Half Gallon,Natural & Organic,5.99,,True,UNITED STATES,real_kroger
+09700132,milk,0001111042850,0001111042850,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700132,milk,0001111042852,0001111042852,Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700132,milk,0007203673813,0007203673813,Harris Teeter,Harris Teeter™ 2% Reduced Fat Milk,Dairy,2.19,,True,null,real_kroger
+09700132,milk,0007203673802,0007203673802,Harris Teeter,Harris Teeter™ Vitamin D Whole Milk Gallon,Dairy,3.89,,True,null,real_kroger
+09700132,milk,0007203673805,0007203673805,Harris Teeter,Harris Teeter 2% Reduced Fat Milk,Dairy,3.79,,True,null,real_kroger
+09700132,milk,0001111042856,0001111042856,Simple Truth Organic,Simple Truth Organic® Skim Fat Free Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700132,milk,0004138309036,0004138309036,Lactaid,Lactaid® Lactose Free Whole Milk Half Gallon,Dairy,4.99,3.5,True,UNITED STATES,real_kroger
+09700332,milk,0007203673810,0007203673810,Harris Teeter,Harris Teeter® Vitamin D Whole Milk,Dairy,2.29,,True,null,real_kroger
+09700332,milk,0001111042908,0001111042908,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Gallon,Dairy,6.89,,True,UNITED STATES,real_kroger
+09700332,milk,0009396651500,0009396651500,Organic Valley,Organic Valley® 2% Reduced Fat Milk Half Gallon,Natural & Organic,5.99,,True,UNITED STATES,real_kroger
+09700332,milk,0001111042850,0001111042850,Simple Truth Organic,Simple Truth Organic® Vitamin D Whole Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700332,milk,0001111042852,0001111042852,Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700332,milk,0007203673813,0007203673813,Harris Teeter,Harris Teeter™ 2% Reduced Fat Milk,Dairy,2.19,,True,null,real_kroger
+09700332,milk,0007203673802,0007203673802,Harris Teeter,Harris Teeter™ Vitamin D Whole Milk Gallon,Dairy,3.89,,True,null,real_kroger
+09700332,milk,0007203673805,0007203673805,Harris Teeter,Harris Teeter 2% Reduced Fat Milk,Dairy,3.79,,True,null,real_kroger
+09700332,milk,0001111042856,0001111042856,Simple Truth Organic,Simple Truth Organic® Skim Fat Free Milk Half Gallon,Natural & Organic,4.29,3.99,True,UNITED STATES,real_kroger
+09700332,milk,0004138309036,0004138309036,Lactaid,Lactaid® Lactose Free Whole Milk Half Gallon,Dairy,4.99,3.5,True,UNITED STATES,real_kroger
+09700177,apples,0000000003603,0000000003603,Fresh Apples,Large SweeTango Apple - Each,Produce,3.29,2.49,True,CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+09700177,apples,0001111018188,0001111018188,,Harris Teeter Farmers Market Fuji Apples - 3 Pound Bag,Produce,5.49,3.99,True,UNITED STATES,real_kroger
+09700177,apples,0001111091825,0001111091825,,Harris Teeter Farmers Market Gala Apples Bag,Produce,5.49,,True,UNITED STATES,real_kroger
+09700177,apples,0001111018999,0001111018999,Simple Truth Organic,Simple Truth Organic® Pink Lady Apples – 2 Pound Bag,Natural & Organic,5.49,,True,UNITED STATES,real_kroger
+09700177,apples,0000000004134,0000000004134,Fresh Apples,Large Gala Apple - Each,Produce,3.29,2.49,True,ARGENTINA; CANADA; CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+09700177,apples,0000000003507,0000000003507,Fresh Apples,Large Cosmic Crisp® Apple – Each,Produce,3.99,,True,UNITED STATES,real_kroger
+09700177,apples,0000000003283,0000000003283,Fresh Apples,Large Honeycrisp Apple – Each,Produce,4.49,,True,ARGENTINA; CANADA; CHILE; UNITED STATES,real_kroger
+09700177,apples,0000000004130,0000000004130,Fresh Apples,Large Pink Lady® Apple – Each,Produce,2.99,1.99,True,CANADA; NEW ZEALAND; UNITED STATES,real_kroger
+09700177,apples,0007203688216,0007203688216,Harris Teeter,Harris Teeter Farmers Market™ Honeycrisp Apples Bag,Produce,7.99,,True,UNITED STATES,real_kroger
+09700177,apples,0001111069101,0001111069101,Simple Truth Organic,Simple Truth Organic® Gala Apples – 2 Pound Bag,Produce,5.99,,True,UNITED STATES,real_kroger
+02900359,apples,0000000093283,0000000093283,Fresh Apples,Organic Large Honeycrisp Apple - Each,Natural & Organic,3.49,2.99,True,ARGENTINA; CANADA; CHILE; UNITED STATES,real_kroger
+02900359,apples,0001111063958,0001111063958,Kroger,Kroger® Cosmic Crisp® Apples - 3 Pound Bag,Produce,4.99,,True,UNITED STATES,real_kroger
+02900359,apples,0001111018189,0001111018189,Kroger,Kroger® Honeycrisp Apples – 3 Pound Bag,Produce,6.99,,True,UNITED STATES,real_kroger
+02900359,apples,0001111091825,0001111091825,,Kroger® Gala Apples – 3 Pound Bag,Produce,3.49,,True,UNITED STATES,real_kroger
+02900359,apples,0000000004017,0000000004017,Fresh Apples,Large Granny Smith Apple - Each,Produce,1.99,1.79,True,CHILE; UNITED STATES,real_kroger
+02900359,apples,0000000004134,0000000004134,Fresh Apples,Large Gala Apple - Each,Produce,1.19,,True,ARGENTINA; CANADA; CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+02900359,apples,0000000003616,0000000003616,Fresh Apples,Large Envy™ Apple - Each,Produce,1.99,,True,UNITED STATES,real_kroger
+02900359,apples,0000000003507,0000000003507,Fresh Apples,Large Cosmic Crisp® Apple – Each,Produce,1.99,,True,UNITED STATES,real_kroger
+02900359,apples,0000000003283,0000000003283,Fresh Apples,Large Honeycrisp Apple – Each,Produce,2.49,,True,ARGENTINA; CANADA; CHILE; UNITED STATES,real_kroger
+02900359,apples,0000000004131,0000000004131,Fresh Apples,Large Fuji Apple – Each,Produce,1.99,,True,ARGENTINA; CANADA; CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+02900334,apples,0000000093283,0000000093283,Fresh Apples,Organic Large Honeycrisp Apple - Each,Natural & Organic,3.49,2.99,True,ARGENTINA; CANADA; CHILE; UNITED STATES,real_kroger
+02900334,apples,0001111063958,0001111063958,Kroger,Kroger® Cosmic Crisp® Apples - 3 Pound Bag,Produce,4.99,,True,UNITED STATES,real_kroger
+02900334,apples,0001111018189,0001111018189,Kroger,Kroger® Honeycrisp Apples – 3 Pound Bag,Produce,6.99,,True,UNITED STATES,real_kroger
+02900334,apples,0001111091825,0001111091825,,Kroger® Gala Apples – 3 Pound Bag,Produce,3.49,,True,UNITED STATES,real_kroger
+02900334,apples,0000000004017,0000000004017,Fresh Apples,Large Granny Smith Apple - Each,Produce,1.99,1.79,True,CHILE; UNITED STATES,real_kroger
+02900334,apples,0000000004134,0000000004134,Fresh Apples,Large Gala Apple - Each,Produce,1.19,,True,ARGENTINA; CANADA; CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+02900334,apples,0000000003616,0000000003616,Fresh Apples,Large Envy™ Apple - Each,Produce,1.99,,True,UNITED STATES,real_kroger
+02900334,apples,0000000003507,0000000003507,Fresh Apples,Large Cosmic Crisp® Apple – Each,Produce,1.99,,True,UNITED STATES,real_kroger
+02900334,apples,0000000003283,0000000003283,Fresh Apples,Large Honeycrisp Apple – Each,Produce,2.49,,True,ARGENTINA; CANADA; CHILE; UNITED STATES,real_kroger
+02900334,apples,0000000004131,0000000004131,Fresh Apples,Large Fuji Apple – Each,Produce,1.99,,True,ARGENTINA; CANADA; CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+09700132,apples,0000000003603,0000000003603,Fresh Apples,Large SweeTango Apple - Each,Produce,3.29,2.49,True,CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+09700132,apples,0001111018188,0001111018188,,Harris Teeter Farmers Market Fuji Apples - 3 Pound Bag,Produce,5.49,3.99,True,UNITED STATES,real_kroger
+09700132,apples,0001111091825,0001111091825,,Harris Teeter Farmers Market Gala Apples Bag,Produce,5.49,,True,UNITED STATES,real_kroger
+09700132,apples,0001111018999,0001111018999,Simple Truth Organic,Simple Truth Organic® Pink Lady Apples – 2 Pound Bag,Natural & Organic,5.49,,True,UNITED STATES,real_kroger
+09700132,apples,0000000004134,0000000004134,Fresh Apples,Large Gala Apple - Each,Produce,3.29,2.49,True,ARGENTINA; CANADA; CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+09700132,apples,0000000003507,0000000003507,Fresh Apples,Large Cosmic Crisp® Apple – Each,Produce,3.99,,True,UNITED STATES,real_kroger
+09700132,apples,0007203688216,0007203688216,Harris Teeter,Harris Teeter Farmers Market™ Honeycrisp Apples Bag,Produce,7.99,,True,UNITED STATES,real_kroger
+09700132,apples,0000000004130,0000000004130,Fresh Apples,Large Pink Lady® Apple – Each,Produce,2.99,1.99,True,CANADA; NEW ZEALAND; UNITED STATES,real_kroger
+09700132,apples,0000000003283,0000000003283,Fresh Apples,Large Honeycrisp Apple – Each,Produce,4.49,,True,ARGENTINA; CANADA; CHILE; UNITED STATES,real_kroger
+09700132,apples,0001111069101,0001111069101,Simple Truth Organic,Simple Truth Organic® Gala Apples – 2 Pound Bag,Produce,5.99,,True,UNITED STATES,real_kroger
+09700332,apples,0000000003603,0000000003603,Fresh Apples,Large SweeTango Apple - Each,Produce,3.29,2.49,True,CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+09700332,apples,0001111018188,0001111018188,,Harris Teeter Farmers Market Fuji Apples - 3 Pound Bag,Produce,5.49,3.99,True,UNITED STATES,real_kroger
+09700332,apples,0001111091825,0001111091825,,Harris Teeter Farmers Market Gala Apples Bag,Produce,5.49,,True,UNITED STATES,real_kroger
+09700332,apples,0001111018999,0001111018999,Simple Truth Organic,Simple Truth Organic® Pink Lady Apples – 2 Pound Bag,Natural & Organic,5.49,,True,UNITED STATES,real_kroger
+09700332,apples,0000000004134,0000000004134,Fresh Apples,Large Gala Apple - Each,Produce,3.29,2.49,True,ARGENTINA; CANADA; CHILE; NEW ZEALAND; UNITED STATES,real_kroger
+09700332,apples,0000000003507,0000000003507,Fresh Apples,Large Cosmic Crisp® Apple – Each,Produce,3.99,,True,UNITED STATES,real_kroger
+09700332,apples,0007203688216,0007203688216,Harris Teeter,Harris Teeter Farmers Market™ Honeycrisp Apples Bag,Produce,7.99,,True,UNITED STATES,real_kroger
+09700332,apples,0000000003283,0000000003283,Fresh Apples,Large Honeycrisp Apple – Each,Produce,4.49,,True,ARGENTINA; CANADA; CHILE; UNITED STATES,real_kroger
+09700332,apples,0000000004130,0000000004130,Fresh Apples,Large Pink Lady® Apple – Each,Produce,2.99,1.99,True,CANADA; NEW ZEALAND; UNITED STATES,real_kroger
+09700332,apples,0001111069101,0001111069101,Simple Truth Organic,Simple Truth Organic® Gala Apples – 2 Pound Bag,Produce,5.99,,True,UNITED STATES,real_kroger
+09700177,light bulbs,0004316899190,0004316899190,GE,GE 8-Watt (60-Watt) A19 LED Light Bulbs - Soft White,Cleaning Products,11.49,,,UNITED STATES,real_kroger
+09700177,light bulbs,0004316890001,0004316890001,GE,GE 15-Watt General Purpose A15 Light Bulbs,Cleaning Products,4.29,3.22,,CHINA,real_kroger
+09700177,light bulbs,0004316824528,0004316824528,GE,GE LED 3.5-Watt (40-Watt) Daylight Decorative Clear Finish Light Bulb Candelabra Base - 2 Pack,Cleaning Products,9.79,,,UNITED STATES,real_kroger
+09700177,light bulbs,0004316855838,0004316855838,GE,GE Soft White LED 5.5W-40W Light Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700177,light bulbs,0004316890002,0004316890002,GE,GE 25-Watt Light Bulbs - Soft White,Cleaning Products,2.99,,,CHINA,real_kroger
+09700177,light bulbs,0004316855839,0004316855839,GE,GE Soft White LED 60w Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700177,light bulbs,0004316876234,0004316876234,GE,GE 25-Watt Bent Tip Decorative CA Type Candelabra Base Light Bulbs,Cleaning Products,6.49,,,CHINA,real_kroger
+09700177,light bulbs,0004316823240,0004316823240,GE,GE 3.5-Watt (40-Watt) Ceiling Fan A15 LED Light Bulbs,Cleaning Products,9.99,7.5,,UNITED STATES,real_kroger
+09700177,light bulbs,0004316867605,0004316867605,GE,GE 10-Watt (60-Watt) A19 LED Light Bulb,Cleaning Products,14.49,,,CHINA,real_kroger
+09700177,light bulbs,0004316856788,0004316856788,GE,GE Daylight LED 8.5 Watt (60 Watt) Light Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+02900359,light bulbs,0004667756534,0004667756534,Philips,Philips 6.5-Watt (40-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,8.99,,,CHINA,real_kroger
+02900359,light bulbs,0004667756545,0004667756545,Philips,Philips 10-Watt (60-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,9.99,7.99,,CHINA,real_kroger
+02900359,light bulbs,0004122666060,0004122666060,Everyday Living,Everyday Living® 6.5-Watt (40-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,7.99,,,null,real_kroger
+02900359,light bulbs,0004667757611,0004667757611,Philips,Philips 8-Watt (60-Watt) A19 LED Dimmable Flicker Free Light Bulb - Soft White (2700K),Cleaning Products,15.99,,,CHINA,real_kroger
+02900359,light bulbs,0004122666062,0004122666062,Everyday Living,Everyday Living® 10.5-Watt (60-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,8.99,,,CHINA,real_kroger
+02900359,light bulbs,0004122666063,0004122666063,Everyday Living,Everyday Living® 10.5-Watt (60-Watt) A19 LED Light Bulb - Daylight (5000K),Cleaning Products,8.99,,,CHINA,real_kroger
+02900359,light bulbs,0004667756548,0004667756548,Philips,Philips 9-Watt (60-Watt) A19 LED Light Bulb - Daylight (5000K),Cleaning Products,9.99,7.99,,CHINA,real_kroger
+02900359,light bulbs,0004122666066,0004122666066,Everyday Living,Everyday Living® 14-Watt (100-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,13.49,,,null,real_kroger
+02900359,light bulbs,0004667756540,0004667756540,Philips,Phillips 13.5-Watt (100-Watt) A19 LED - Soft White (2700K) Light Bulb,Cleaning Products,15.99,,,CHINA,real_kroger
+02900359,light bulbs,0088877704311,0088877704311,Everyday Living,Everyday Living 60-Watt (10.5-Watt) A19 Light Bulb Daylight - 10 Pack,Cleaning Products,13.49,9.99,,CHINA,real_kroger
+02900334,light bulbs,0004667756534,0004667756534,Philips,Philips 6.5-Watt (40-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,8.99,,,CHINA,real_kroger
+02900334,light bulbs,0004667756545,0004667756545,Philips,Philips 10-Watt (60-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,9.99,7.99,,CHINA,real_kroger
+02900334,light bulbs,0004667757611,0004667757611,Philips,Philips 8-Watt (60-Watt) A19 LED Dimmable Flicker Free Light Bulb - Soft White (2700K),Cleaning Products,15.99,,,CHINA,real_kroger
+02900334,light bulbs,0004122666060,0004122666060,Everyday Living,Everyday Living® 6.5-Watt (40-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,7.99,,,null,real_kroger
+02900334,light bulbs,0004122666062,0004122666062,Everyday Living,Everyday Living® 10.5-Watt (60-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,8.99,,,CHINA,real_kroger
+02900334,light bulbs,0004122666063,0004122666063,Everyday Living,Everyday Living® 10.5-Watt (60-Watt) A19 LED Light Bulb - Daylight (5000K),Cleaning Products,8.99,,,CHINA,real_kroger
+02900334,light bulbs,0004667756548,0004667756548,Philips,Philips 9-Watt (60-Watt) A19 LED Light Bulb - Daylight (5000K),Cleaning Products,9.99,7.99,,CHINA,real_kroger
+02900334,light bulbs,0004122666066,0004122666066,Everyday Living,Everyday Living® 14-Watt (100-Watt) A19 LED Light Bulb - Soft White (2700K),Cleaning Products,13.49,,,null,real_kroger
+02900334,light bulbs,0004667756540,0004667756540,Philips,Phillips 13.5-Watt (100-Watt) A19 LED - Soft White (2700K) Light Bulb,Cleaning Products,15.99,,,CHINA,real_kroger
+02900334,light bulbs,0088877704311,0088877704311,Everyday Living,Everyday Living 60-Watt (10.5-Watt) A19 Light Bulb Daylight - 10 Pack,Cleaning Products,13.49,9.99,,CHINA,real_kroger
+09700132,light bulbs,0004316899190,0004316899190,GE,GE 8-Watt (60-Watt) A19 LED Light Bulbs - Soft White,Cleaning Products,11.49,,,UNITED STATES,real_kroger
+09700132,light bulbs,0004316824528,0004316824528,GE,GE LED 3.5-Watt (40-Watt) Daylight Decorative Clear Finish Light Bulb Candelabra Base - 2 Pack,Cleaning Products,9.79,,,UNITED STATES,real_kroger
+09700132,light bulbs,0004316890001,0004316890001,GE,GE 15-Watt General Purpose A15 Light Bulbs,Cleaning Products,4.29,3.22,,CHINA,real_kroger
+09700132,light bulbs,0004316855838,0004316855838,GE,GE Soft White LED 5.5W-40W Light Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700132,light bulbs,0004316890002,0004316890002,GE,GE 25-Watt Light Bulbs - Soft White,Cleaning Products,2.99,,,CHINA,real_kroger
+09700132,light bulbs,0004316855839,0004316855839,GE,GE Soft White LED 60w Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700132,light bulbs,0004316876234,0004316876234,GE,GE 25-Watt Bent Tip Decorative CA Type Candelabra Base Light Bulbs,Cleaning Products,6.49,,,CHINA,real_kroger
+09700132,light bulbs,0004316823240,0004316823240,GE,GE 3.5-Watt (40-Watt) Ceiling Fan A15 LED Light Bulbs,Cleaning Products,9.99,7.5,,UNITED STATES,real_kroger
+09700132,light bulbs,0004316867605,0004316867605,GE,GE 10-Watt (60-Watt) A19 LED Light Bulb,Cleaning Products,14.49,,,CHINA,real_kroger
+09700132,light bulbs,0004316856788,0004316856788,GE,GE Daylight LED 8.5 Watt (60 Watt) Light Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700332,light bulbs,0004316825967,0004316825967,GE,GE 6.5-Watt (60-Watt) Decorative Globe Soft White LED G25 Light Bulb,Cleaning Products,8.69,,,CHINA,real_kroger
+09700332,light bulbs,0004316824528,0004316824528,GE,GE LED 3.5-Watt (40-Watt) Daylight Decorative Clear Finish Light Bulb Candelabra Base - 2 Pack,Cleaning Products,9.79,,,UNITED STATES,real_kroger
+09700332,light bulbs,0004316855838,0004316855838,GE,GE Soft White LED 5.5W-40W Light Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700332,light bulbs,0004316890002,0004316890002,GE,GE 25-Watt Light Bulbs - Soft White,Cleaning Products,2.99,,,CHINA,real_kroger
+09700332,light bulbs,0004316855839,0004316855839,GE,GE Soft White LED 60w Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700332,light bulbs,0004316876234,0004316876234,GE,GE 25-Watt Bent Tip Decorative CA Type Candelabra Base Light Bulbs,Cleaning Products,6.49,,,CHINA,real_kroger
+09700332,light bulbs,0004316823240,0004316823240,GE,GE 3.5-Watt (40-Watt) Ceiling Fan A15 LED Light Bulbs,Cleaning Products,9.99,7.5,,UNITED STATES,real_kroger
+09700332,light bulbs,0004316850664,0004316850664,GE,GE 100 Watt Soft White LED Light Bulbs,Cleaning Products,14.99,,,CHINA,real_kroger
+09700332,light bulbs,0004316867605,0004316867605,GE,GE 10-Watt (60-Watt) A19 LED Light Bulb,Cleaning Products,14.49,,,CHINA,real_kroger
+09700332,light bulbs,0004316856788,0004316856788,GE,GE Daylight LED 8.5 Watt (60 Watt) Light Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger

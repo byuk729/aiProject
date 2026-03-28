@@ -1,0 +1,1644 @@
+{
+  "data": [
+    {
+      "productId": "0004316825967",
+      "upc": "0004316825967",
+      "productPageURI": "/p/ge-6-5-watt-60-watt-decorative-globe-soft-white-led-g25-light-bulb/0004316825967?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "03",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "2",
+          "side": "L",
+          "shelfNumber": "3",
+          "shelfPositionInBay": "125"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products",
+        "Cleaning Products",
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE 6.5-Watt (60-Watt) Decorative Globe Soft White LED G25 Light Bulb",
+      "allergens": [
+        {
+          "levelOfContainmentName": "Undeclared",
+          "name": "Does Not Contain Declaration Obligatory Allergens"
+        }
+      ],
+      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
+      "receiptDescription": "GE LED BULB",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0004316825967"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0004316825967"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0004316825967"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0004316825967"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0004316825967"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316825967"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316825967"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316825967"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316825967"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316825967"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316825967"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316825967"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316825967"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316825967"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316825967"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0004316825967"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0004316825967"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0004316825967"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0004316825967"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0004316825967"
+            }
+          ]
+        },
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0004316825967"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0004316825967"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0004316825967"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0004316825967"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0004316825967"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316825967",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 8.69,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2025-03-19T04:28:11.686Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "1 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "3.43",
+        "height": "5.31",
+        "width": "3.43",
+        "grossWeight": "0.28 [lb_av]",
+        "netWeight": "0.28 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316824528",
+      "upc": "0004316824528",
+      "productPageURI": "/p/ge-led-3-5-watt-40-watt-daylight-decorative-clear-finish-light-bulb-candelabra-base-2-pack/0004316824528?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "02",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "2",
+          "side": "L",
+          "shelfNumber": "6",
+          "shelfPositionInBay": "58"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "GE LED 3.5-Watt (40-Watt) Daylight Decorative Clear Finish Light Bulb Candelabra Base - 2 Pack",
+      "allergens": [
+        {
+          "levelOfContainmentName": "Undeclared",
+          "name": "Does Not Contain Declaration Obligatory Allergens"
+        }
+      ],
+      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
+      "receiptDescription": "GE LED BULB",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316824528"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316824528"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316824528"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316824528"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316824528"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316824528",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 9.79,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-03-25T02:16:14.726Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "2 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "3.11",
+        "height": "5.28",
+        "width": "1.58",
+        "grossWeight": "0.55 [lb_av]",
+        "netWeight": "0.55 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316855838",
+      "upc": "0004316855838",
+      "productPageURI": "/p/ge-soft-white-led-5-5w-40w-light-bulbs/0004316855838?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "01",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "1",
+          "side": "L",
+          "shelfNumber": "5",
+          "shelfPositionInBay": "46"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products",
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE Soft White LED 5.5W-40W Light Bulbs",
+      "receiptDescription": "GE LED 5W-40W",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316855838"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316855838"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316855838"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316855838"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316855838"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316855838"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316855838"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316855838"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316855838"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316855838"
+            }
+          ]
+        },
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0004316855838"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0004316855838"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0004316855838"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0004316855838"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0004316855838"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0004316855838"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0004316855838"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0004316855838"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0004316855838"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0004316855838"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316855838",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 6.99,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-03-25T02:16:14.730Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "4 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "2.5",
+        "height": "6.6",
+        "width": "5.1",
+        "grossWeight": "0.32 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316890002",
+      "upc": "0004316890002",
+      "productPageURI": "/p/ge-25-watt-light-bulbs-soft-white/0004316890002?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "01",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "2",
+          "side": "L",
+          "shelfNumber": "5",
+          "shelfPositionInBay": "43"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products",
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE 25-Watt Light Bulbs - Soft White",
+      "receiptDescription": "GE LT BULB",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316890002"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316890002"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316890002"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316890002"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316890002"
+            }
+          ]
+        },
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0004316890002"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0004316890002"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0004316890002"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0004316890002"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0004316890002"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316890002"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316890002"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316890002"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316890002"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316890002"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0004316890002"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0004316890002"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0004316890002"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0004316890002"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0004316890002"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316890002",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 2.99,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-03-25T02:16:39.721Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "2 pack",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "2.5",
+        "height": "4.63",
+        "width": "3.88",
+        "grossWeight": "0.18 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316855839",
+      "upc": "0004316855839",
+      "productPageURI": "/p/ge-soft-white-led-60w-bulbs/0004316855839?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "01",
+          "description": "AISLE 9",
+          "number": "9",
+          "numberOfFacings": "1",
+          "side": "L",
+          "shelfNumber": "5",
+          "shelfPositionInBay": "56"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products",
+        "Cleaning Products",
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE Soft White LED 60w Bulbs",
+      "receiptDescription": "GE LED 8W-60W",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316855839"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316855839"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316855839"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316855839"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316855839"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316855839"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316855839"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316855839"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316855839"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316855839"
+            }
+          ]
+        },
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0004316855839"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0004316855839"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0004316855839"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0004316855839"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0004316855839"
+            }
+          ]
+        },
+        {
+          "perspective": "bottom",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/bottom/0004316855839"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/bottom/0004316855839"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/bottom/0004316855839"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/bottom/0004316855839"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0004316855839"
+            }
+          ]
+        },
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0004316855839"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0004316855839"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0004316855839"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0004316855839"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0004316855839"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0004316855839"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0004316855839"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0004316855839"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0004316855839"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0004316855839"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316855839",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 6.99,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2025-12-31T08:23:18.566Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "4 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "2.5",
+        "height": "6.6",
+        "width": "5.1",
+        "grossWeight": "0.32 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316876234",
+      "upc": "0004316876234",
+      "productPageURI": "/p/ge-25-watt-bent-tip-decorative-ca-type-candelabra-base-light-bulbs/0004316876234?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "01",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "1",
+          "side": "L",
+          "shelfNumber": "6",
+          "shelfPositionInBay": "6"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products",
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE 25-Watt Bent Tip Decorative CA Type Candelabra Base Light Bulbs",
+      "receiptDescription": "LIGHTBULBS",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316876234"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316876234"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316876234"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316876234"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316876234"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316876234"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316876234"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316876234"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316876234"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316876234"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316876234",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 6.49,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2025-04-09T05:22:10.516Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "4 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "6.38",
+        "height": "7.0",
+        "width": "2.0",
+        "grossWeight": "0.19 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316823240",
+      "upc": "0004316823240",
+      "productPageURI": "/p/ge-3-5-watt-40-watt-ceiling-fan-a15-led-light-bulbs/0004316823240?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "02",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "2",
+          "side": "L",
+          "shelfNumber": "6",
+          "shelfPositionInBay": "54"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "GE 3.5-Watt (40-Watt) Ceiling Fan A15 LED Light Bulbs",
+      "allergens": [
+        {
+          "levelOfContainmentName": "Undeclared",
+          "name": "Does Not Contain Declaration Obligatory Allergens"
+        }
+      ],
+      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
+      "receiptDescription": "GE LED BULB",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316823240"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316823240"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316823240"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316823240"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316823240",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 9.99,
+            "promo": 7.5,
+            "expirationDate": {
+              "value": "2026-04-01T03:59:59.999Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-03-25T05:18:45.081Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "2 pk",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "3.9",
+        "height": "3.94",
+        "width": "1.97",
+        "grossWeight": "0.4 [lb_av]",
+        "netWeight": "0.4 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316850664",
+      "upc": "0004316850664",
+      "productPageURI": "/p/ge-100-watt-soft-white-led-light-bulbs/0004316850664?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "02",
+          "description": "AISLE 9",
+          "number": "9",
+          "numberOfFacings": "1",
+          "side": "L",
+          "shelfNumber": "5",
+          "shelfPositionInBay": "132"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products",
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE 100 Watt Soft White LED Light Bulbs",
+      "receiptDescription": "E LED 100W EQ A CL",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0004316850664"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0004316850664"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0004316850664"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0004316850664"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0004316850664"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316850664"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316850664"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316850664"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316850664"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316850664"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316850664"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316850664"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316850664"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316850664"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316850664"
+            }
+          ]
+        },
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0004316850664"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0004316850664"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0004316850664"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0004316850664"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0004316850664"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0004316850664"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0004316850664"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0004316850664"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0004316850664"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0004316850664"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316850664",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 14.99,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2025-03-19T05:20:52.128Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "2 pk",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "2.99",
+        "height": "4.89",
+        "width": "5.68",
+        "grossWeight": "0.28 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316867605",
+      "upc": "0004316867605",
+      "productPageURI": "/p/ge-10-watt-60-watt-a19-led-light-bulb/0004316867605?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "02",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "3",
+          "side": "L",
+          "shelfNumber": "3",
+          "shelfPositionInBay": "76"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE 10-Watt (60-Watt) A19 LED Light Bulb",
+      "receiptDescription": "LED BULB",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316867605"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316867605"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316867605"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316867605"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316867605"
+            }
+          ]
+        },
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0004316867605"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0004316867605"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0004316867605"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0004316867605"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0004316867605"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316867605"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316867605"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316867605"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316867605"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316867605"
+            }
+          ]
+        },
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0004316867605"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0004316867605"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0004316867605"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0004316867605"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0004316867605"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0004316867605"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0004316867605"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0004316867605"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0004316867605"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0004316867605"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316867605",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 14.49,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-03-25T02:16:17.751Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "2 pk",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "4.92",
+        "height": "4.72",
+        "width": "2.44",
+        "grossWeight": "0.77 [lb_av]",
+        "netWeight": "0.77 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    },
+    {
+      "productId": "0004316856788",
+      "upc": "0004316856788",
+      "productPageURI": "/p/ge-daylight-led-8-5-watt-60-watt-light-bulbs/0004316856788?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "01",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "2",
+          "side": "L",
+          "shelfNumber": "5",
+          "shelfPositionInBay": "49"
+        }
+      ],
+      "brand": "GE",
+      "categories": [
+        "Cleaning Products"
+      ],
+      "countryOrigin": "CHINA",
+      "description": "GE Daylight LED 8.5 Watt (60 Watt) Light Bulbs",
+      "allergens": [
+        {
+          "levelOfContainmentName": "Free from",
+          "name": "Does Not Contain Declaration Obligatory Allergens"
+        }
+      ],
+      "allergensDescription": "Free from Does Not Contain Declaration Obligatory Allergens.",
+      "receiptDescription": "GE LIGHTS",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0004316856788"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0004316856788"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0004316856788"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0004316856788"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0004316856788"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0004316856788"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0004316856788"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0004316856788"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0004316856788"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0004316856788"
+            }
+          ]
+        },
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0004316856788"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0004316856788"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0004316856788"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0004316856788"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0004316856788"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0004316856788"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0004316856788"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0004316856788"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0004316856788"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0004316856788"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0004316856788",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 6.99,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-01-28T03:25:38.348Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "4 pk",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "2.38",
+        "height": "6.56",
+        "width": "4.75",
+        "grossWeight": "0.24 [lb_av]",
+        "netWeight": "0.24 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 0,
+        "totalReviewCount": 0
+      },
+      "nutritionInformation": null
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 10,
+      "total": 96
+    }
+  }
+}
