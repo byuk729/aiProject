@@ -4,7 +4,9 @@ import requests
 import json
 import csv
 
-ACCESS_TOKEN = "fake_access"
+from get_kroger_token import get_access_token
+
+ACCESS_TOKEN = get_access_token("product.compact")
 
 # Kroger Locations API endpoint
 url = "https://api.kroger.com/v1/locations"
@@ -32,7 +34,7 @@ data = response.json()
 stores = data.get("data", [])
 
 #Path to output CSV file
-output_file ="../data/clean/stores.csv"
+output_file ="../../data/clean/stores.csv"
 
 # Open file in write mode
 with open(output_file, mode="w", newline="", encoding="utf-8") as file:

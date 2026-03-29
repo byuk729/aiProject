@@ -4,32 +4,9 @@ import json
 import csv
 import os
 
-# Kroger credentials
-CLIENT_ID = "fake id".strip()
-CLIENT_SECRET = "fake secret".strip()
+from get_kroger_token import get_access_token
 
-def get_access_token():
-    url = "https://api.kroger.com/v1/connect/oauth2/token"
-
-    credentials = f"{CLIENT_ID}:{CLIENT_SECRET}"
-    encoded_credentials = base64.b64encode(
-        credentials.encode("utf-8")
-    ).decode("utf-8")
-
-    headers = {
-        "Content-Type": "application/x-www-form-urlencoded",
-        "Authorization": f"Basic {encoded_credentials}",
-    }
-
-    data = {
-        "grant_type": "client_credentials",
-        "scope": "product.compact"
-    }
-
-    response = requests.post(url, headers=headers, data=data)
-
-    response.raise_for_status()
-    return response.json()["access_token"]
+ACCESS_TOKEN = get_access_token("product.compact")
 
 # Saves raw data to file before cleaning
 def save_raw_json(data):
@@ -172,7 +149,7 @@ def load_charlottesville_stores(csv_path="../../data/clean/stores.csv"):
     return stores
 
 if __name__ == "__main__":
-    ACCESS_TOKEN = get_access_token()
+    ACCESS_TOKEN = get_access_token("product.compact")
 
     query = input("Enter grocery item: ").strip()
 

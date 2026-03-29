@@ -159,3 +159,53 @@ store_id,query_term,product_id,upc,brand,item_name,category,price_regular,price_
 09700332,light bulbs,0004316850664,0004316850664,GE,GE 100 Watt Soft White LED Light Bulbs,Cleaning Products,14.99,,,CHINA,real_kroger
 09700332,light bulbs,0004316867605,0004316867605,GE,GE 10-Watt (60-Watt) A19 LED Light Bulb,Cleaning Products,14.49,,,CHINA,real_kroger
 09700332,light bulbs,0004316856788,0004316856788,GE,GE Daylight LED 8.5 Watt (60 Watt) Light Bulbs,Cleaning Products,6.99,,,CHINA,real_kroger
+09700177,toothpaste,0031015885116,0031015885116,Sensodyne,"Sensodyne Repair & Protect, Fluoride Toothpaste For Sensitive Teeth and Cavity Protection, Whitening",Personal Care,14.99,,,PUERTO RICO,real_kroger
+09700177,toothpaste,0003077205885,0003077205885,Crest,Crest Pro-Health Clean Mint Toothpaste,Personal Care,10.29,,,UNITED STATES,real_kroger
+09700177,toothpaste,0003077222586,0003077222586,Crest,Crest Toothpaste Clean Breath Spearmint 4.6 oz - Neutralizes Bad Breath,Personal Care,9.99,8.99,,UNITED STATES,real_kroger
+09700177,toothpaste,0003700090734,0003700090734,Crest,Crest + Scope Mint Outlast Complete Whitening Toothpaste Value Pack,Personal Care,9.99,,,UNITED STATES,real_kroger
+09700177,toothpaste,0031015808414,0031015808414,Sensodyne,"Sensodyne, Toothpaste For Sensitive Teeth and Cavity Protection, Extra Whitening",Personal Care,13.99,,,PUERTO RICO,real_kroger
+09700177,toothpaste,0003077212547,0003077212547,Crest,"Crest 3D White Advanced Teeth Whitening Toothpaste, Radiant Mint",Personal Care,6.99,,,UNITED STATES,real_kroger
+09700177,toothpaste,0003320018013,0003320018013,Arm & Hammer,ARM & HAMMER Advance White Toothpaste Twin Pack Clean Mint Anticavity Fluoride Whitening,Personal Care,10.19,,,UNITED STATES,real_kroger
+09700177,toothpaste,0082785402688,0082785402688,Colgate,Colgate Optic White Stain Fighter Teeth Whitening Toothpaste Double Pack in Clean Mint Paste,Personal Care,12.99,,,MEXICO,real_kroger
+09700177,toothpaste,0082785402721,0082785402721,Hello,hello Antiplaque and Whitening Fluoride Free Toothpaste Double Pack in Natural Peppermint,Personal Care,10.79,,,UNITED STATES,real_kroger
+09700177,toothpaste,0003700085379,0003700085379,Crest,Crest + Scope Minty Fresh Complete Whitening Toothpaste Value Pack,Personal Care,9.99,,,UNITED STATES,real_kroger
+02900359,toothpaste,0031015888766,0031015888766,Sensodyne,"Sensodyne Pronamel Intensive Enamel Repair, Toothpaste For Sensitive Teeth and Cavity Protection.",Personal Care,13.99,,,PUERTO RICO,real_kroger
+02900359,toothpaste,0031015885116,0031015885116,Sensodyne,"Sensodyne Repair & Protect, Fluoride Toothpaste For Sensitive Teeth and Cavity Protection, Whitening",Personal Care,13.99,,,PUERTO RICO,real_kroger
+02900359,toothpaste,0003077222134,0003077222134,Crest,Crest Toothpaste 3DWhite Deep Stain Remover Ultra White,Personal Care,15.99,,,UNITED STATES,real_kroger
+02900359,toothpaste,0003077205885,0003077205885,Crest,Crest Pro-Health Clean Mint Toothpaste,Personal Care,7.99,,,UNITED STATES,real_kroger
+02900359,toothpaste,0003077205884,0003077205884,Crest,Crest Pro-Health Whitening Gel Toothpaste,Personal Care,7.99,,,UNITED STATES,real_kroger
+02900359,toothpaste,0003700090734,0003700090734,Crest,Crest + Scope Mint Outlast Complete Whitening Toothpaste Value Pack,Personal Care,6.99,,,UNITED STATES,real_kroger
+02900359,toothpaste,0003077212547,0003077212547,Crest,"Crest 3D White Advanced Teeth Whitening Toothpaste, Radiant Mint",Personal Care,4.99,,,UNITED STATES,real_kroger
+02900359,toothpaste,0082785402688,0082785402688,Colgate,Colgate Optic White Stain Fighter Teeth Whitening Toothpaste Double Pack in Clean Mint Paste,Personal Care,7.99,6.99,,MEXICO,real_kroger
+02900359,toothpaste,0003700085379,0003700085379,Crest,Crest + Scope Minty Fresh Complete Whitening Toothpaste Value Pack,Personal Care,6.99,,,UNITED STATES,real_kroger
+02900359,toothpaste,0082785402721,0082785402721,Hello,hello Antiplaque and Whitening Fluoride Free Toothpaste Double Pack in Natural Peppermint,Personal Care,10.99,,,UNITED STATES,real_kroger
+02900334,toothpaste,0031015888766,0031015888766,Sensodyne,"Sensodyne Pronamel Intensive Enamel Repair, Toothpaste For Sensitive Teeth and Cavity Protection.",Personal Care,13.99,,,PUERTO RICO,real_kroger
+02900334,toothpaste,0031015885116,0031015885116,Sensodyne,"Sensodyne Repair & Protect, Fluoride Toothpaste For Sensitive Teeth and Cavity Protection, Whitening",Personal Care,13.99,,,PUERTO RICO,real_kroger
+02900334,toothpaste,0003077205885,0003077205885,Crest,Crest Pro-Health Clean Mint Toothpaste,Personal Care,7.99,,,UNITED STATES,real_kroger
+02900334,toothpaste,0003077222134,0003077222134,Crest,Crest Toothpaste 3DWhite Deep Stain Remover Ultra White,Personal Care,15.99,,,UNITED STATES,real_kroger
+02900334,toothpaste,0003077205884,0003077205884,Crest,Crest Pro-Health Whitening Gel Toothpaste,Personal Care,7.99,,,UNITED STATES,real_kroger
+02900334,toothpaste,0003700090734,0003700090734,Crest,Crest + Scope Mint Outlast Complete Whitening Toothpaste Value Pack,Personal Care,6.99,,,UNITED STATES,real_kroger
+02900334,toothpaste,0003077212547,0003077212547,Crest,"Crest 3D White Advanced Teeth Whitening Toothpaste, Radiant Mint",Personal Care,4.99,,,UNITED STATES,real_kroger
+02900334,toothpaste,0082785402721,0082785402721,Hello,hello Antiplaque and Whitening Fluoride Free Toothpaste Double Pack in Natural Peppermint,Personal Care,10.99,,,UNITED STATES,real_kroger
+02900334,toothpaste,0082785402688,0082785402688,Colgate,Colgate Optic White Stain Fighter Teeth Whitening Toothpaste Double Pack in Clean Mint Paste,Personal Care,7.99,6.99,,MEXICO,real_kroger
+02900334,toothpaste,0003700085379,0003700085379,Crest,Crest + Scope Minty Fresh Complete Whitening Toothpaste Value Pack,Personal Care,6.99,,,UNITED STATES,real_kroger
+09700132,toothpaste,0031015885116,0031015885116,Sensodyne,"Sensodyne Repair & Protect, Fluoride Toothpaste For Sensitive Teeth and Cavity Protection, Whitening",Personal Care,14.99,,,PUERTO RICO,real_kroger
+09700132,toothpaste,0003077205885,0003077205885,Crest,Crest Pro-Health Clean Mint Toothpaste,Personal Care,10.29,,,UNITED STATES,real_kroger
+09700132,toothpaste,0003077222586,0003077222586,Crest,Crest Toothpaste Clean Breath Spearmint 4.6 oz - Neutralizes Bad Breath,Personal Care,9.99,8.99,,UNITED STATES,real_kroger
+09700132,toothpaste,0003700090734,0003700090734,Crest,Crest + Scope Mint Outlast Complete Whitening Toothpaste Value Pack,Personal Care,9.99,,,UNITED STATES,real_kroger
+09700132,toothpaste,0031015808414,0031015808414,Sensodyne,"Sensodyne, Toothpaste For Sensitive Teeth and Cavity Protection, Extra Whitening",Personal Care,13.99,,,PUERTO RICO,real_kroger
+09700132,toothpaste,0003077212547,0003077212547,Crest,"Crest 3D White Advanced Teeth Whitening Toothpaste, Radiant Mint",Personal Care,6.99,,,UNITED STATES,real_kroger
+09700132,toothpaste,0003320018013,0003320018013,Arm & Hammer,ARM & HAMMER Advance White Toothpaste Twin Pack Clean Mint Anticavity Fluoride Whitening,Personal Care,10.19,,,UNITED STATES,real_kroger
+09700132,toothpaste,0082785402721,0082785402721,Hello,hello Antiplaque and Whitening Fluoride Free Toothpaste Double Pack in Natural Peppermint,Personal Care,10.79,,,UNITED STATES,real_kroger
+09700132,toothpaste,0003700085379,0003700085379,Crest,Crest + Scope Minty Fresh Complete Whitening Toothpaste Value Pack,Personal Care,9.99,,,UNITED STATES,real_kroger
+09700132,toothpaste,0082785402688,0082785402688,Colgate,Colgate Optic White Stain Fighter Teeth Whitening Toothpaste Double Pack in Clean Mint Paste,Personal Care,12.99,,,MEXICO,real_kroger
+09700332,toothpaste,0031015885116,0031015885116,Sensodyne,"Sensodyne Repair & Protect, Fluoride Toothpaste For Sensitive Teeth and Cavity Protection, Whitening",Personal Care,14.99,,,PUERTO RICO,real_kroger
+09700332,toothpaste,0003077205885,0003077205885,Crest,Crest Pro-Health Clean Mint Toothpaste,Personal Care,10.29,,,UNITED STATES,real_kroger
+09700332,toothpaste,0003077222586,0003077222586,Crest,Crest Toothpaste Clean Breath Spearmint 4.6 oz - Neutralizes Bad Breath,Personal Care,9.99,8.99,,UNITED STATES,real_kroger
+09700332,toothpaste,0003700090734,0003700090734,Crest,Crest + Scope Mint Outlast Complete Whitening Toothpaste Value Pack,Personal Care,9.99,,,UNITED STATES,real_kroger
+09700332,toothpaste,0031015808414,0031015808414,Sensodyne,"Sensodyne, Toothpaste For Sensitive Teeth and Cavity Protection, Extra Whitening",Personal Care,13.99,,,PUERTO RICO,real_kroger
+09700332,toothpaste,0003077212547,0003077212547,Crest,"Crest 3D White Advanced Teeth Whitening Toothpaste, Radiant Mint",Personal Care,6.99,,,UNITED STATES,real_kroger
+09700332,toothpaste,0003320018013,0003320018013,Arm & Hammer,ARM & HAMMER Advance White Toothpaste Twin Pack Clean Mint Anticavity Fluoride Whitening,Personal Care,10.19,,,UNITED STATES,real_kroger
+09700332,toothpaste,0082785402688,0082785402688,Colgate,Colgate Optic White Stain Fighter Teeth Whitening Toothpaste Double Pack in Clean Mint Paste,Personal Care,12.99,,,MEXICO,real_kroger
+09700332,toothpaste,0082785402721,0082785402721,Hello,hello Antiplaque and Whitening Fluoride Free Toothpaste Double Pack in Natural Peppermint,Personal Care,10.79,,,UNITED STATES,real_kroger
+09700332,toothpaste,0003700085379,0003700085379,Crest,Crest + Scope Minty Fresh Complete Whitening Toothpaste Value Pack,Personal Care,9.99,,,UNITED STATES,real_kroger
