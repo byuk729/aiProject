@@ -1,5 +1,5 @@
 import { zodResolver } from "@hookform/resolvers/zod"
-import { Controller, useForm } from "react-hook-form"
+import { Controller, useForm, useWatch } from "react-hook-form"
 import {
   Card,
   CardHeader,
@@ -23,21 +23,27 @@ import {
   InputGroupText,
 } from "@/components/ui/input-group";
 import * as z from "zod"
+import { getGroceryRecs } from "@/services/groceryService"
+import { useState } from 'react'
 
 const formSchema = z.object({
   prompt: z.string().min(20, "Prompt must be at least 20 characters").max(250, "Prompt cannot exceed 500 characters")
 })
 
 function App() {
-  const {control, handleSubmit, reset, formState, watch} = useForm<z.infer<typeof formSchema>>({
+  const {control, handleSubmit, reset, formState} = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema), 
     defaultValues: {
       prompt: ""
     }
   })
-  const formValues = watch()
-  function onSubmit(data: z.infer<typeof formSchema>) {
-    console.log(data)
+  const promptValue = useWatch({ control, name: "prompt" }) ?? ""
+
+  const [response, setResponse] = useState("")
+  async function onSubmit(data: z.infer<typeof formSchema>) {
+    const rec = await getGroceryRecs(data)
+    setResponse(rec.prompt)
+    reset()
   }
     return (
     <Card className="w-full h-dvh">
@@ -87,7 +93,7 @@ function App() {
       </CardContent>
       <CardFooter>
         <Field orientation="horizontal">
-          <Button type="button" variant="outline" onClick={() => reset } disabled={!formValues.prompt.length}>
+          <Button type="button" variant="outline" onClick={() => reset()} disabled={!promptValue.length}>
             Reset
           </Button>
           <Button type="submit" form="grocery-finder-form" disabled={!formState.isValid}>
@@ -95,6 +101,9 @@ function App() {
           </Button>
         </Field>
       </CardFooter>
+      <CardContent>
+            {response}
+      </CardContent>
     </Card>
   )
 }
