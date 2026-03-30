@@ -1,6 +1,8 @@
+# This was a test for me to see if the load_stores (kroger) worked correctly
+
 import csv
 
-file_path = "../clean/stores.csv"
+file_path = "../../clean/stores.csv"
 
 '''
 Opens stores.csv, stores it, prints header
