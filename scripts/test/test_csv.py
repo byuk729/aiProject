@@ -1,19 +1,10 @@
-# This was just a test for myself to see the structure of my .csv files
-
 import os
 import pandas as pd
 
-current_dir = os.path.dirname(__file__)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
 
-file_path = os.path.join(
-    current_dir,
-    "..", "..",  # go up from test → scripts → project root
-    "data",
-    "clean",
-    "kroger_products.csv"
-)
-
-file_path = os.path.abspath(file_path)
+file_path = os.path.join(PROJECT_ROOT, "data", "clean", "synthetic_products.csv")
 
 print("Looking for:", file_path)
 print("File exists:", os.path.exists(file_path))
