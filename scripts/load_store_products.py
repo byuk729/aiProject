@@ -57,7 +57,10 @@ store_products_df = store_products_df[
 ]
 
 # Remove duplicate store-product pairs before insert
-store_products_df = store_products_df.drop_duplicates(subset=["store_id", "product_id"])
+store_products_df = store_products_df.drop_duplicates(
+    subset=["store_id", "product_id"],
+    keep="last"
+)
 
 print(f"Unique store-product rows to attempt insert: {len(store_products_df)}")
 
@@ -66,7 +69,7 @@ conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
 
 processed = 0
-actually_inserted = 0
+actually_written = 0
 skipped_missing_store = 0
 skipped_missing_product = 0
 
@@ -89,9 +92,12 @@ for _, row in store_products_df.iterrows():
         continue
 
     cursor.execute("""
-        INSERT OR IGNORE INTO store_products (
-            store_id, product_id, price, promo_price
-        ) VALUES (?, ?, ?, ?)
+        INSERT INTO store_products (store_id, product_id, price, promo_price)
+        VALUES (?, ?, ?, ?)
+        ON CONFLICT(store_id, product_id)
+        DO UPDATE SET
+            price = excluded.price,
+            promo_price = excluded.promo_price
     """, (
         store_id,
         product_id,
@@ -102,7 +108,7 @@ for _, row in store_products_df.iterrows():
     processed += 1
 
     if cursor.rowcount == 1:
-        actually_inserted += 1
+        actually_written += 1
 
 conn.commit()
 
@@ -112,7 +118,7 @@ total_rows = cursor.fetchone()[0]
 conn.close()
 
 print(f"\nProcessed valid rows: {processed}")
-print(f"Actually inserted: {actually_inserted}")
+print(f"Rows inserted/updated: {actually_written}")
 print(f"Skipped missing store: {skipped_missing_store}")
 print(f"Skipped missing product: {skipped_missing_product}")
 print(f"Total rows now in store_products table: {total_rows}")
