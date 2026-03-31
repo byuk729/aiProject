@@ -1,89 +1,34 @@
 {
   "data": [
     {
-      "productId": "0001111091629",
-      "upc": "0001111091629",
-      "productPageURI": "/p/kroger-romaine-lettuce-hearts/0001111091629?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aliasProductIds": [
-        "00738761500018",
-        "00027918205242",
-        "00716519080050",
-        "00893318002015",
-        "00453888803186",
-        "00605806000331",
-        "00045388880318",
-        "06825534016594",
-        "00030223040705",
-        "00060556900209",
-        "00740695651728",
-        "00071430009697",
-        "00714300098642",
-        "00060556900100",
-        "00060580600335",
-        "00072668001569",
-        "00060556900506",
-        "00073150184654",
-        "00854186005324",
-        "00073574002503",
-        "00885460000032",
-        "00011150989138",
-        "00000651003214",
-        "00030746000019",
-        "00071430009840",
-        "00016519080006",
-        "00856694007234",
-        "00858959004927",
-        "00042932773492",
-        "00005806000339",
-        "00788336122114",
-        "00733383651629",
-        "00023525401237",
-        "00071279265018",
-        "00742932773491",
-        "00088336122115",
-        "00042388880317",
-        "00033383651620",
-        "00040695030074",
-        "00060556900001",
-        "00860401000487",
-        "00072668601004",
-        "00765321651620",
-        "00740695030073",
-        "00071430009864",
-        "00071430009550",
-        "00071279944593",
-        "00030223041320",
-        "00012842040045",
-        "00012842031135",
-        "00716519080005",
-        "00740695651629",
-        "00865393000132",
-        "00073150000046"
-      ],
-      "aisleLocations": [],
-      "brand": "Fresh Romaine Lettuce",
-      "categories": [
-        "Produce"
-      ],
-      "countryOrigin": "UNITED STATES",
-      "description": "Fresh Romaine Hearts",
-      "snapEligible": true,
-      "manufacturerDeclarations": [
-        "GMO Free",
-        "Vegan"
-      ],
-      "allergens": [
+      "productId": "0007203673922",
+      "upc": "0007203673922",
+      "productPageURI": "/p/harris-teeter-purified-drinking-bottled-water/0007203673922?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
         {
-          "levelOfContainmentName": "Undeclared",
-          "name": "Does Not Contain Declaration Obligatory Allergens"
+          "bayNumber": "18",
+          "description": "AISLE 8",
+          "number": "8",
+          "numberOfFacings": "3",
+          "side": "R",
+          "shelfNumber": "4",
+          "shelfPositionInBay": "11"
         }
       ],
-      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
-      "nonGmo": true,
-      "nonGmoClaimName": "PRODUCT LABELED WITH NON-GMO CLAIM",
-      "organicClaimName": "NO",
-      "receiptDescription": "ROMAINE HEARTS",
+      "brand": "Harris Teeter",
+      "categories": [
+        "Beverages",
+        "Beverages"
+      ],
+      "countryOrigin": "null",
+      "description": "Harris Teeter Purified Drinking Bottled Water",
+      "snapEligible": true,
+      "manufacturerDeclarations": [
+        "Kosher"
+      ],
+      "receiptDescription": "HARRIS TEETER BTL",
       "restrictions": {},
+      "warnings": "Warning: Cap is a small part and poses a Choking Hazard, particularly for children.",
       "images": [
         {
           "perspective": "front",
@@ -91,30 +36,33 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0001111091629"
+              "url": "https://www.kroger.com/product/images/xlarge/front/0007203673922"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0001111091629"
+              "url": "https://www.kroger.com/product/images/large/front/0007203673922"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0001111091629"
+              "url": "https://www.kroger.com/product/images/medium/front/0007203673922"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0001111091629"
+              "url": "https://www.kroger.com/product/images/small/front/0007203673922"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111091629"
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0007203673922"
             }
           ]
         }
       ],
       "items": [
         {
-          "itemId": "0001111091629",
+          "itemId": "0007203673922",
+          "inventory": {
+            "stockLevel": "TEMPORARILY_OUT_OF_STOCK"
+          },
           "favorite": false,
           "fulfillment": {
             "curbside": true,
@@ -123,839 +71,343 @@
             "shipToHome": false
           },
           "price": {
-            "regular": 4.99,
-            "promo": 4.79,
+            "regular": 5.39,
             "expirationDate": {
-              "value": "2026-04-01T03:59:59.999Z",
+              "value": "9999-12-31T00:00:00Z",
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-03-25T02:16:07.905Z",
+              "value": "2026-01-07T08:52:08.089Z",
               "timezone": "Z"
             }
           },
-          "size": "18 oz",
+          "size": "40 pk",
           "soldBy": "UNIT"
         }
       ],
       "itemInformation": {
-        "depth": "9.25",
-        "height": "3.75",
-        "width": "11.95",
-        "grossWeight": "1.36 [lb_av]",
-        "netWeight": "1.0 [lb_av]"
+        "depth": "19.8",
+        "height": "8.1",
+        "width": "13.95",
+        "grossWeight": "45.11 [lb_av]"
       },
       "temperature": {
-        "indicator": "Refrigerated",
+        "indicator": "Ambient",
         "heatSensitive": false
       },
       "ratingsAndReviews": {
-        "averageOverallRating": 2.38,
-        "totalReviewCount": 29
+        "averageOverallRating": 5,
+        "totalReviewCount": 1
+      },
+      "nutritionInformation": [
+        {
+          "servingSize": {
+            "quantity": 500,
+            "unitOfMeasure": {
+              "abbreviation": "ml",
+              "code": "MLT",
+              "name": "Millilitre"
+            }
+          },
+          "nutrients": [
+            {
+              "code": "NA",
+              "description": "sodium",
+              "displayName": "Sodium",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "ENER-",
+              "description": "energy; method of determination unknown or variable",
+              "displayName": "Calories",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "E14",
+                "name": "Kilocalorie (international table)"
+              }
+            },
+            {
+              "code": "FAT",
+              "description": "fat, total",
+              "displayName": "Total Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "CHO-",
+              "description": "carbohydrate, total; method of determination unknown or variable",
+              "displayName": "Total Carbohydrate",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "PRO-",
+              "description": "protein, total; method of determination unknown or variable",
+              "displayName": "Protein",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            }
+          ],
+          "preparationState": {
+            "code": "UNSPECIFIED",
+            "name": "Unspecified"
+          },
+          "servingsPerPackage": {
+            "description": "40.0",
+            "value": 40
+          }
+        }
+      ]
+    },
+    {
+      "productId": "0008265750406",
+      "upc": "0008265750406",
+      "productPageURI": "/p/deer-park-100-natural-spring-bottled-water/0008265750406?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "21",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "3",
+          "side": "R",
+          "shelfNumber": "4",
+          "shelfPositionInBay": "48"
+        }
+      ],
+      "brand": "Deer Park",
+      "categories": [
+        "Beverages",
+        "Beverages"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Deer Park 100% Natural Spring Bottled Water",
+      "snapEligible": true,
+      "manufacturerDeclarations": [
+        "Kosher"
+      ],
+      "nonGmoClaimName": "NO NON-GMO CLAIM",
+      "organicClaimName": "NO",
+      "receiptDescription": "DEERPARK WATER",
+      "restrictions": {},
+      "warnings": "Warning: Cap is a small part and poses a choking hazard, particularly for children.",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0008265750406"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0008265750406"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0008265750406"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0008265750406"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0008265750406"
+            }
+          ]
+        },
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0008265750406"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0008265750406"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0008265750406"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0008265750406"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0008265750406"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0008265750406"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0008265750406"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0008265750406"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0008265750406"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0008265750406"
+            }
+          ]
+        },
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0008265750406"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0008265750406"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0008265750406"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0008265750406"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0008265750406"
+            }
+          ]
+        },
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0008265750406"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0008265750406"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0008265750406"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0008265750406"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0008265750406"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0008265750406",
+          "inventory": {
+            "stockLevel": "HIGH"
+          },
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 6.79,
+            "promo": 5.99,
+            "expirationDate": {
+              "value": "2026-05-13T03:59:59.999Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-03-11T01:58:31.670Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "16.9 fl. oz.",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "11.35",
+        "height": "8.02",
+        "width": "14.7",
+        "grossWeight": "27.54 [lb_av]",
+        "netWeight": "24.0 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 4.57,
+        "totalReviewCount": 843
       },
       "nutritionInformation": null
     },
     {
-      "productId": "0000000004061",
-      "upc": "0000000004061",
-      "productPageURI": "/p/wrapped-iceberg-lettuce/0000000004061?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aliasProductIds": [
-        "00812856012102",
-        "00060556200903",
-        "00060556200101",
-        "00221328000606",
-        "00855376007470",
-        "00060556200408",
-        "00044100004650",
-        "00060556200200",
-        "00846334000336",
-        "00740695650219",
-        "00060556200002",
-        "00041163453272",
-        "00856694007241",
-        "00060556201108",
-        "00027190406146",
-        "00740695650202",
-        "00846334000343",
-        "00060556290003",
-        "00060556200804",
-        "00060556201603",
-        "00033383650029",
-        "00885460000049",
-        "00060556201207",
-        "00765321650203",
-        "00045255246926",
-        "00074494009535",
-        "00733821046345",
-        "00866135000021",
-        "00060556200705",
-        "00060556201504",
-        "00071430031889",
-        "00060556201306",
-        "00721328000601",
-        "00073574650506",
-        "00060556201009",
-        "00060556201801",
-        "00605806000294",
-        "00060556200606",
-        "00846334000480",
-        "00615913000124",
-        "00085460000043",
-        "00060556201405",
-        "00850677002797",
-        "00060556200507",
-        "00060556200309",
-        "00033383650708",
-        "00079816905038",
-        "00060556201702",
-        "00072668100019",
-        "00073876130010",
-        "00027918040614",
-        "00073150028415",
-        "00000651011004",
-        "00000000046343",
-        "00011150990134",
-        "00738761300151",
-        "00073574650209",
-        "00733821040619",
-        "00659513000122",
-        "08589590040105",
-        "00033383650203",
-        "00858959004910",
-        "00648196683432",
-        "00639993485725",
-        "00765321000046",
-        "00071430031872",
-        "00035724000128",
-        "00023523000005",
-        "00036558000018",
-        "00023525000010",
-        "00038523380118",
-        "00048006000051",
-        "00048130015600",
-        "00033383650036",
-        "00204061000003",
-        "00072036880246",
-        "00071431400004",
-        "00033383050201",
-        "00030223181521",
-        "00072668700042",
-        "00033383650524",
-        "00072668000074",
-        "00030223151524",
-        "00030223141525",
-        "00033383650531",
-        "00045388000068",
-        "00030223162520",
-        "00071279000053",
-        "00071279871110",
-        "00073574000073",
-        "00030223191520",
-        "00071430008003",
-        "00071430000014",
-        "00081279000052",
-        "00850063113021",
-        "00846429000005"
+      "productId": "0001200050404",
+      "upc": "0001200050404",
+      "productPageURI": "/p/aquafina-purified-drinking-bottled-water/0001200050404?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "20",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "4",
+          "shelfPositionInBay": "60"
+        }
       ],
-      "aisleLocations": [],
+      "brand": "Aquafina",
       "categories": [
-        "Produce"
+        "Beverages",
+        "Beverages"
       ],
       "countryOrigin": "UNITED STATES",
-      "description": "Wrapped Iceberg Lettuce",
-      "snapEligible": true,
-      "allergens": [
-        {
-          "levelOfContainmentName": "Undeclared",
-          "name": "Does Not Contain Declaration Obligatory Allergens"
-        }
-      ],
-      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
-      "organicClaimName": "NO",
-      "receiptDescription": "ICEBERG LETTUCE",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0000000004061"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0000000004061"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0000000004061"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0000000004061"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0000000004061"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0000000004061",
-          "favorite": false,
-          "fulfillment": {
-            "curbside": true,
-            "delivery": true,
-            "inStore": true,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 1.49,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2026-03-04T03:05:23.146Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "1 ct",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "5.95",
-        "height": "5.15",
-        "width": "6.15",
-        "grossWeight": "1.45 [lb_av]",
-        "netWeight": "1.0 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Refrigerated",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 1.7,
-        "totalReviewCount": 147
-      },
-      "nutritionInformation": [
-        {
-          "ingredientStatement": "iceberg lettuce",
-          "servingSize": {
-            "quantity": 85,
-            "unitOfMeasure": {
-              "abbreviation": "g",
-              "code": "GRM",
-              "name": "Gram"
-            }
-          },
-          "nutrients": [
-            {
-              "code": "PRO-",
-              "description": "protein, total; method of determination unknown or variable",
-              "displayName": "Protein",
-              "quantity": 1,
-              "precision": {
-                "code": "LESS_THAN",
-                "name": "Less than"
-              },
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "P",
-              "description": "phosphorus",
-              "displayName": "Phosphorus",
-              "percentDailyIntake": 1.4,
-              "quantity": 20,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "VITD",
-              "description": "vitamin D; calculated by summation of ergocalciferol and cholecalciferol",
-              "displayName": "Vitamin D",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MC",
-                "name": "Microgram"
-              }
-            },
-            {
-              "code": "CA",
-              "description": "calcium",
-              "displayName": "Calcium",
-              "percentDailyIntake": 1.2,
-              "quantity": 20,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "SUGAR",
-              "description": "sugars, total",
-              "displayName": "Sugar",
-              "quantity": 2,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "VITC",
-              "description": "vitamin C",
-              "displayName": "Vitamin C",
-              "percentDailyIntake": 4,
-              "quantity": 2,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "CHO-",
-              "description": "carbohydrate, total; method of determination unknown or variable",
-              "displayName": "Total Carbohydrate",
-              "quantity": 3,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "K",
-              "description": "potassium",
-              "displayName": "Potassium",
-              "percentDailyIntake": 2.6,
-              "quantity": 120,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "FAT",
-              "description": "fat, total",
-              "displayName": "Total Fat",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "MG",
-              "description": "magnesium",
-              "displayName": "Magnesium",
-              "percentDailyIntake": 1.4,
-              "quantity": 5,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "NA",
-              "description": "sodium",
-              "displayName": "Sodium",
-              "quantity": 10,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "FE",
-              "description": "iron, total",
-              "displayName": "Iron",
-              "percentDailyIntake": 1.9,
-              "quantity": 0.3,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "FASAT",
-              "description": "fatty acids, total saturated",
-              "displayName": "Saturated Fat",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "ENER-",
-              "description": "energy; method of determination unknown or variable",
-              "displayName": "Calories",
-              "quantity": 10,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "E14",
-                "name": "Kilocalorie (international table)"
-              }
-            },
-            {
-              "code": "FATRN",
-              "description": "fatty acids, total trans",
-              "displayName": "Trans Fat",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "VITA",
-              "description": "vitamin A; calculated by summation of the vitamin A activities of retinol and the active carotenoids",
-              "displayName": "Vitamin A",
-              "percentDailyIntake": 2.4,
-              "quantity": 20,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MC",
-                "name": "Microgram"
-              }
-            },
-            {
-              "code": "FIBTSW",
-              "description": "fibre, total dietary; Wenlock modification",
-              "displayName": "Dietary Fiber",
-              "percentDailyIntake": 3.6,
-              "quantity": 1,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "SUGAD",
-              "description": "sugar, added",
-              "displayName": "Added Sugar",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "CHOL-",
-              "description": "cholesterol; method of determination unknown or variable",
-              "displayName": "Cholesterol",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            }
-          ],
-          "preparationState": {
-            "code": "UNSPECIFIED",
-            "name": "Unspecified"
-          },
-          "servingsPerPackage": {},
-          "nutritionalRating": "99"
-        }
-      ]
-    },
-    {
-      "productId": "0000000094640",
-      "upc": "0000000094640",
-      "productPageURI": "/p/organic-romaine-lettuce/0000000094640?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aliasProductIds": [
-        "00841352000085",
-        "00033383004372",
-        "00028764900343",
-        "00032601952440",
-        "00856093005008",
-        "00850310002030",
-        "00816717010450",
-        "00667796904099",
-        "00810846020540",
-        "08507960023824",
-        "00885435999408",
-        "00834106000974",
-        "00045009886316",
-        "00728733003227",
-        "00814905010466",
-        "00000651967035",
-        "00740695904091",
-        "00857323004129",
-        "08507860022828",
-        "00850043005674",
-        "00885564000211",
-        "00762453027866",
-        "00841325150038",
-        "00803944946409",
-        "00812963020182",
-        "00832046001846",
-        "00733821946409",
-        "00850796002388",
-        "00850786002282",
-        "00073574840303",
-        "00858959004248",
-        "00829808000551",
-        "00857417005230",
-        "00854186005065"
-      ],
-      "aisleLocations": [],
-      "categories": [
-        "Natural & Organic",
-        "Produce"
-      ],
-      "countryOrigin": "MEXICO; UNITED STATES",
-      "description": "Organic Romaine Lettuce",
-      "snapEligible": true,
-      "allergens": [
-        {
-          "levelOfContainmentName": "Undeclared",
-          "name": "Does Not Contain Declaration Obligatory Allergens"
-        }
-      ],
-      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
-      "organicClaimName": "ORGANIC CLAIM AND NOT PRINTED ON PACKAGE",
-      "receiptDescription": "ROMAINE ORG",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0000000094640"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0000000094640"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0000000094640"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0000000094640"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0000000094640"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0000000094640",
-          "favorite": false,
-          "fulfillment": {
-            "curbside": true,
-            "delivery": true,
-            "inStore": true,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 1.99,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2025-11-05T08:56:39.488Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "1 ct",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "9.6",
-        "height": "6.15",
-        "width": "10.8",
-        "grossWeight": "0.61 [lb_av]",
-        "netWeight": "1.0 [lb_av]",
-        "averageWeightPerUnit": "0.99 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Refrigerated",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 1.13,
-        "totalReviewCount": 8
-      },
-      "nutritionInformation": [
-        {
-          "ingredientStatement": "romaine lettuce",
-          "servingSize": {
-            "quantity": 85,
-            "unitOfMeasure": {
-              "abbreviation": "g",
-              "code": "GRM",
-              "name": "Gram"
-            }
-          },
-          "nutrients": [
-            {
-              "code": "P",
-              "description": "phosphorus",
-              "displayName": "Phosphorus",
-              "percentDailyIntake": 2,
-              "quantity": 30,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "FASAT",
-              "description": "fatty acids, total saturated",
-              "displayName": "Saturated Fat",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "CA",
-              "description": "calcium",
-              "displayName": "Calcium",
-              "percentDailyIntake": 2.2,
-              "quantity": 30,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "CHO-",
-              "description": "carbohydrate, total; method of determination unknown or variable",
-              "displayName": "Total Carbohydrate",
-              "quantity": 3,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "K",
-              "description": "potassium",
-              "displayName": "Potassium",
-              "percentDailyIntake": 4.5,
-              "quantity": 210,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "SUGAD",
-              "description": "sugar, added",
-              "displayName": "Added Sugar",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "SUGAR",
-              "description": "sugars, total",
-              "displayName": "Sugar",
-              "quantity": 1,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "VITC",
-              "description": "vitamin C",
-              "displayName": "Vitamin C",
-              "percentDailyIntake": 5.7,
-              "quantity": 3,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "MG",
-              "description": "magnesium",
-              "displayName": "Magnesium",
-              "percentDailyIntake": 2.8,
-              "quantity": 10,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "FAT",
-              "description": "fat, total",
-              "displayName": "Total Fat",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "FIBTSW",
-              "description": "fibre, total dietary; Wenlock modification",
-              "displayName": "Dietary Fiber",
-              "percentDailyIntake": 6.4,
-              "quantity": 2,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "VITD",
-              "description": "vitamin D; calculated by summation of ergocalciferol and cholecalciferol",
-              "displayName": "Vitamin D",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MC",
-                "name": "Microgram"
-              }
-            },
-            {
-              "code": "CHOL-",
-              "description": "cholesterol; method of determination unknown or variable",
-              "displayName": "Cholesterol",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "PRO-",
-              "description": "protein, total; method of determination unknown or variable",
-              "displayName": "Protein",
-              "quantity": 1,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "NA",
-              "description": "sodium",
-              "displayName": "Sodium",
-              "quantity": 5,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            },
-            {
-              "code": "VITA",
-              "description": "vitamin A; calculated by summation of the vitamin A activities of retinol and the active carotenoids",
-              "displayName": "Vitamin A",
-              "percentDailyIntake": 41.2,
-              "quantity": 370,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MC",
-                "name": "Microgram"
-              }
-            },
-            {
-              "code": "ENER-",
-              "description": "energy; method of determination unknown or variable",
-              "displayName": "Calories",
-              "quantity": 15,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "E14",
-                "name": "Kilocalorie (international table)"
-              }
-            },
-            {
-              "code": "FATRN",
-              "description": "fatty acids, total trans",
-              "displayName": "Trans Fat",
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
-              }
-            },
-            {
-              "code": "FE",
-              "description": "iron, total",
-              "displayName": "Iron",
-              "percentDailyIntake": 4.6,
-              "quantity": 0.8,
-              "precision": {},
-              "unitOfMeasure": {
-                "code": "MGM",
-                "name": "Milligram"
-              }
-            }
-          ],
-          "preparationState": {
-            "code": "UNSPECIFIED",
-            "name": "Unspecified"
-          },
-          "servingsPerPackage": {},
-          "nutritionalRating": "100"
-        }
-      ]
-    },
-    {
-      "productId": "0085706200441",
-      "upc": "0085706200441",
-      "productPageURI": "/p/brightfarms-spring-mix-lettuce-4oz-salad/0085706200441?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aliasProductIds": [
-        "00011150938150"
-      ],
-      "aisleLocations": [],
-      "brand": "Bright Farms",
-      "categories": [
-        "Produce"
-      ],
-      "countryOrigin": "UNITED STATES",
-      "description": "BrightFarms Spring Mix Lettuce, 4oz Salad",
+      "description": "Aquafina\u00ae Purified Drinking Bottled Water",
       "snapEligible": true,
       "manufacturerDeclarations": [
-        "Live Naturally",
-        "GMO Free"
+        "Vegan"
+      ],
+      "sweeteningMethods": [
+        {
+          "code": "NONE",
+          "name": "NONE"
+        }
       ],
       "allergens": [
         {
@@ -964,35 +416,33 @@
         }
       ],
       "allergensDescription": "Free from Does Not Contain Declaration Obligatory Allergens.",
-      "nonGmo": true,
-      "nonGmoClaimName": "PRODUCT LABELED WITH NON-GMO CLAIM",
       "organicClaimName": "NO",
-      "receiptDescription": "BRFR SPRING MIX",
+      "receiptDescription": "AQUAFINA WATER",
       "restrictions": {},
-      "warnings": "N/A",
       "images": [
         {
-          "perspective": "back",
+          "perspective": "front",
+          "featured": true,
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0085706200441"
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001200050404"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0085706200441"
+              "url": "https://www.kroger.com/product/images/large/front/0001200050404"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0085706200441"
+              "url": "https://www.kroger.com/product/images/medium/front/0001200050404"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0085706200441"
+              "url": "https://www.kroger.com/product/images/small/front/0001200050404"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0085706200441"
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001200050404"
             }
           ]
         },
@@ -1001,49 +451,48 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0085706200441"
+              "url": "https://www.kroger.com/product/images/xlarge/right/0001200050404"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0085706200441"
+              "url": "https://www.kroger.com/product/images/large/right/0001200050404"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0085706200441"
+              "url": "https://www.kroger.com/product/images/medium/right/0001200050404"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0085706200441"
+              "url": "https://www.kroger.com/product/images/small/right/0001200050404"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0085706200441"
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0001200050404"
             }
           ]
         },
         {
-          "perspective": "front",
-          "featured": true,
+          "perspective": "bottom",
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0085706200441"
+              "url": "https://www.kroger.com/product/images/xlarge/bottom/0001200050404"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0085706200441"
+              "url": "https://www.kroger.com/product/images/large/bottom/0001200050404"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0085706200441"
+              "url": "https://www.kroger.com/product/images/medium/bottom/0001200050404"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0085706200441"
+              "url": "https://www.kroger.com/product/images/small/bottom/0001200050404"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0085706200441"
+              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0001200050404"
             }
           ]
         },
@@ -1052,30 +501,55 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0085706200441"
+              "url": "https://www.kroger.com/product/images/xlarge/left/0001200050404"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0085706200441"
+              "url": "https://www.kroger.com/product/images/large/left/0001200050404"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0085706200441"
+              "url": "https://www.kroger.com/product/images/medium/left/0001200050404"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0085706200441"
+              "url": "https://www.kroger.com/product/images/small/left/0001200050404"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0085706200441"
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0001200050404"
+            }
+          ]
+        },
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0001200050404"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0001200050404"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0001200050404"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0001200050404"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0001200050404"
             }
           ]
         }
       ],
       "items": [
         {
-          "itemId": "0085706200441",
+          "itemId": "0001200050404",
           "inventory": {
             "stockLevel": "HIGH"
           },
@@ -1087,134 +561,203 @@
             "shipToHome": false
           },
           "price": {
-            "regular": 3.99,
+            "regular": 7.49,
+            "promo": 5.99,
             "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
+              "value": "2026-05-20T03:59:59.999Z",
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-03-25T03:50:14.294Z",
+              "value": "2026-02-18T03:26:31.445Z",
               "timezone": "Z"
             }
           },
-          "size": "4 oz",
+          "size": "24 bottles / 16.9 fl oz",
           "soldBy": "UNIT"
         }
       ],
       "itemInformation": {
-        "depth": "2.65",
-        "height": "8.74",
-        "width": "7.79",
-        "grossWeight": "0.25 [lb_av]",
-        "netWeight": "0.25 [lb_av]"
+        "depth": "10.0",
+        "height": "8.0",
+        "width": "15.8",
+        "grossWeight": "27.75 [lb_av]",
+        "netWeight": "25.35 [lb_av]"
       },
       "temperature": {
-        "indicator": "Refrigerated",
+        "indicator": "Ambient",
         "heatSensitive": false
       },
       "ratingsAndReviews": {
-        "averageOverallRating": 4.73,
-        "totalReviewCount": 63
+        "averageOverallRating": 5,
+        "totalReviewCount": 1
       },
-      "nutritionInformation": null
+      "nutritionInformation": [
+        {
+          "ingredientStatement": "Purified Water.",
+          "servingSize": {
+            "quantity": 16.9,
+            "unitOfMeasure": {
+              "abbreviation": "fl oz",
+              "code": "OZA",
+              "name": "Fluid ounce (US)"
+            }
+          },
+          "nutrients": [
+            {
+              "code": "PRO-",
+              "description": "protein, total; method of determination unknown or variable",
+              "displayName": "Protein",
+              "precision": {
+                "code": "APPROXIMATELY",
+                "name": "Approximately"
+              },
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "NA",
+              "description": "sodium",
+              "displayName": "Sodium",
+              "precision": {
+                "code": "APPROXIMATELY",
+                "name": "Approximately"
+              },
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "ENER-",
+              "description": "energy; method of determination unknown or variable",
+              "displayName": "Calories",
+              "precision": {
+                "code": "APPROXIMATELY",
+                "name": "Approximately"
+              },
+              "unitOfMeasure": {
+                "code": "E14",
+                "name": "Kilocalorie (international table)"
+              }
+            },
+            {
+              "code": "SUGAR",
+              "description": "sugars, total",
+              "displayName": "Sugar",
+              "precision": {
+                "code": "APPROXIMATELY",
+                "name": "Approximately"
+              },
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "SUGAD",
+              "description": "sugar, added",
+              "displayName": "Added Sugar",
+              "precision": {
+                "code": "APPROXIMATELY",
+                "name": "Approximately"
+              },
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "FAT",
+              "description": "fat, total",
+              "displayName": "Total Fat",
+              "precision": {
+                "code": "APPROXIMATELY",
+                "name": "Approximately"
+              },
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "CHO-",
+              "description": "carbohydrate, total; method of determination unknown or variable",
+              "displayName": "Total Carbohydrate",
+              "precision": {
+                "code": "APPROXIMATELY",
+                "name": "Approximately"
+              },
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            }
+          ],
+          "preparationState": {
+            "code": "UNPREPARED",
+            "name": "Unprepared"
+          },
+          "servingsPerPackage": {
+            "description": "24.0 About",
+            "value": 24
+          },
+          "nutritionalRating": "100"
+        }
+      ]
     },
     {
-      "productId": "0085706200484",
-      "upc": "0085706200484",
-      "productPageURI": "/p/brightfarms-sweet-baby-butter-leaf-lettuce-4-oz-salad/0085706200484?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [],
-      "brand": "Bright Farms",
-      "categories": [
-        "Natural & Organic",
-        "Produce"
+      "productId": "0007203636053",
+      "upc": "0007203636053",
+      "productPageURI": "/p/harris-teeter-natural-spring-bottled-water/0007203636053?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "18",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "4",
+          "side": "R",
+          "shelfNumber": "4",
+          "shelfPositionInBay": "85"
+        }
       ],
-      "countryOrigin": "UNITED STATES",
-      "description": "BrightFarms Sweet Baby Butter Leaf Lettuce, 4 oz Salad",
+      "brand": "Harris Teeter",
+      "categories": [
+        "Beverages",
+        "Beverages"
+      ],
+      "countryOrigin": "null",
+      "description": "Harris Teeter\u2122 Natural Spring Bottled Water",
       "snapEligible": true,
       "manufacturerDeclarations": [
-        "Live Naturally",
-        "GMO Free"
+        "Kosher"
       ],
-      "nonGmo": true,
-      "nonGmoClaimName": "PRODUCT LABELED WITH NON-GMO CLAIM",
-      "organicClaimName": "NO",
-      "receiptDescription": "BRFR LETTUCE",
+      "receiptDescription": "T SPRG WATER 5L 24",
       "restrictions": {},
-      "warnings": "N/A",
       "images": [
         {
-          "perspective": "front",
-          "featured": true,
+          "perspective": "top",
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0085706200484"
+              "url": "https://www.kroger.com/product/images/xlarge/top/0007203636053"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0085706200484"
+              "url": "https://www.kroger.com/product/images/large/top/0007203636053"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0085706200484"
+              "url": "https://www.kroger.com/product/images/medium/top/0007203636053"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0085706200484"
+              "url": "https://www.kroger.com/product/images/small/top/0007203636053"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0085706200484"
-            }
-          ]
-        },
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0085706200484"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0085706200484"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0085706200484"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0085706200484"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0085706200484"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0085706200484"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0085706200484"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0085706200484"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0085706200484"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0085706200484"
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0007203636053"
             }
           ]
         },
@@ -1223,30 +766,253 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0085706200484"
+              "url": "https://www.kroger.com/product/images/xlarge/left/0007203636053"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0085706200484"
+              "url": "https://www.kroger.com/product/images/large/left/0007203636053"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0085706200484"
+              "url": "https://www.kroger.com/product/images/medium/left/0007203636053"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0085706200484"
+              "url": "https://www.kroger.com/product/images/small/left/0007203636053"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0085706200484"
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0007203636053"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0007203636053"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0007203636053"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0007203636053"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0007203636053"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0007203636053"
             }
           ]
         }
       ],
       "items": [
         {
-          "itemId": "0085706200484",
+          "itemId": "0007203636053",
+          "inventory": {
+            "stockLevel": "HIGH"
+          },
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 4.49,
+            "promo": 4,
+            "expirationDate": {
+              "value": "2026-05-13T03:59:59.999Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-01-21T15:12:07.600Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "24 bottles/16.9 fl oz",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "15.0",
+        "height": "8.05",
+        "width": "11.4",
+        "grossWeight": "27.16 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 2.57,
+        "totalReviewCount": 7
+      },
+      "nutritionInformation": [
+        {
+          "servingSize": {
+            "quantity": 500,
+            "unitOfMeasure": {
+              "abbreviation": "ml",
+              "code": "MLT",
+              "name": "Millilitre"
+            }
+          },
+          "nutrients": [
+            {
+              "code": "NA",
+              "description": "sodium",
+              "displayName": "Sodium",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "CHO-",
+              "description": "carbohydrate, total; method of determination unknown or variable",
+              "displayName": "Total Carbohydrate",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "ENER-",
+              "description": "energy; method of determination unknown or variable",
+              "displayName": "Calories",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "E14",
+                "name": "Kilocalorie (international table)"
+              }
+            },
+            {
+              "code": "FAT",
+              "description": "fat, total",
+              "displayName": "Total Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "PRO-",
+              "description": "protein, total; method of determination unknown or variable",
+              "displayName": "Protein",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            }
+          ],
+          "preparationState": {
+            "code": "UNSPECIFIED",
+            "name": "Unspecified"
+          },
+          "servingsPerPackage": {
+            "description": "24.0",
+            "value": 24
+          }
+        }
+      ]
+    },
+    {
+      "productId": "0007203697777",
+      "upc": "0007203697777",
+      "productPageURI": "/p/harris-teeter-purified-drinking-bottled-water/0007203697777?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aisleLocations": [
+        {
+          "bayNumber": "22",
+          "description": "AISLE 6",
+          "number": "6",
+          "numberOfFacings": "6",
+          "side": "R",
+          "shelfNumber": "4",
+          "shelfPositionInBay": "33"
+        }
+      ],
+      "brand": "Harris Teeter",
+      "categories": [
+        "Beverages",
+        "Beverages"
+      ],
+      "countryOrigin": "null",
+      "description": "Harris Teeter\u2122 Purified Drinking Bottled Water",
+      "snapEligible": true,
+      "manufacturerDeclarations": [
+        "Kosher"
+      ],
+      "receiptDescription": "T PURIFIED WATER 2",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0007203697777"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0007203697777"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0007203697777"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0007203697777"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0007203697777"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0007203697777"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0007203697777"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0007203697777"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0007203697777"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0007203697777"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0007203697777",
           "inventory": {
             "stockLevel": "HIGH"
           },
@@ -1264,37 +1030,107 @@
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-03-25T02:16:26.700Z",
+              "value": "2026-03-18T02:13:32.364Z",
               "timezone": "Z"
             }
           },
-          "size": "4 oz",
+          "size": "24 bottles/16.9 fl oz",
           "soldBy": "UNIT"
         }
       ],
       "itemInformation": {
-        "depth": "2.65",
-        "height": "8.74",
-        "width": "7.79",
-        "grossWeight": "0.25 [lb_av]",
-        "netWeight": "0.25 [lb_av]"
+        "depth": "11.45",
+        "height": "8.2",
+        "width": "15.9",
+        "grossWeight": "27.29 [lb_av]"
       },
       "temperature": {
-        "indicator": "Refrigerated",
+        "indicator": "Ambient",
         "heatSensitive": false
       },
       "ratingsAndReviews": {
-        "averageOverallRating": 4.82,
-        "totalReviewCount": 22
+        "averageOverallRating": 3.25,
+        "totalReviewCount": 8
       },
-      "nutritionInformation": null
+      "nutritionInformation": [
+        {
+          "servingSize": {
+            "quantity": 500,
+            "unitOfMeasure": {
+              "abbreviation": "ml",
+              "code": "MLT",
+              "name": "Millilitre"
+            }
+          },
+          "nutrients": [
+            {
+              "code": "ENER-",
+              "description": "energy; method of determination unknown or variable",
+              "displayName": "Calories",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "E14",
+                "name": "Kilocalorie (international table)"
+              }
+            },
+            {
+              "code": "FAT",
+              "description": "fat, total",
+              "displayName": "Total Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "CHO-",
+              "description": "carbohydrate, total; method of determination unknown or variable",
+              "displayName": "Total Carbohydrate",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "PRO-",
+              "description": "protein, total; method of determination unknown or variable",
+              "displayName": "Protein",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "NA",
+              "description": "sodium",
+              "displayName": "Sodium",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            }
+          ],
+          "preparationState": {
+            "code": "UNSPECIFIED",
+            "name": "Unspecified"
+          },
+          "servingsPerPackage": {
+            "description": "24.0",
+            "value": 24
+          }
+        }
+      ]
     }
   ],
   "meta": {
     "pagination": {
       "start": 0,
       "limit": 5,
-      "total": 86
+      "total": 835
     }
   }
 }

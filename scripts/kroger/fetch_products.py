@@ -119,6 +119,7 @@ def load_charlottesville_stores(csv_path=None):
         for row in reader:
             city = row["city"].strip().lower()
             store_id = row["store_id"].strip()
+            store_name = row["store_name"].strip()
             address = row["address"].strip()
 
             if city != "charlottesville":
@@ -128,10 +129,9 @@ def load_charlottesville_stores(csv_path=None):
             if store_id.startswith("SYN_"):
                 continue
 
-            stores.append((store_id, address))
+            stores.append((store_id, store_name, address))
 
     return stores
-
 
 if __name__ == "__main__":
     access_token = get_access_token("product.compact")

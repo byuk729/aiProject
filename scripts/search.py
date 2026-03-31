@@ -1,18 +1,21 @@
 import os
-import sqlite3
 import sys
+import sqlite3
+
+# Fix import path so kroger/ works
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(BASE_DIR)
+sys.path.append(BASE_DIR)
 
 from kroger.fetch_products import fetch_products, load_charlottesville_stores
 from kroger.get_kroger_token import get_access_token
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# Tell Python to treat scripts/ as a module root
-sys.path.append(BASE_DIR)
-PROJECT_ROOT = os.path.dirname(BASE_DIR)
 DB_PATH = os.path.join(PROJECT_ROOT, "data", "grocery.db")
 
 
+# ---------------------------
+# LOCAL DATABASE SEARCH
+# ---------------------------
 def search_local_db(conn, search_term):
     cursor = conn.cursor()
 
@@ -29,57 +32,57 @@ def search_local_db(conn, search_term):
     return cursor.fetchall()
 
 
+# ---------------------------
+# KROGER API SEARCH
+# ---------------------------
 def search_kroger_api_all_stores(search_term):
     access_token = get_access_token("product.compact")
     stores = load_charlottesville_stores()
 
     all_rows = []
 
-    for store_id, address in stores:
+    for store_id, store_name, address in stores:
         try:
             rows = fetch_products(search_term, store_id, access_token, limit=5)
 
             for row in rows:
                 all_rows.append({
-                    "store_id": row[0],
-                    "store_address": address,
-                    "query_term": row[1],
-                    "product_id": row[2],
-                    "upc": row[3],
+                    "store_name": store_name,
                     "brand": row[4],
                     "item_name": row[5],
-                    "category": row[6],
                     "price_regular": row[7],
                     "price_promo": row[8],
-                    "snap_eligible": row[9],
-                    "country_origin": row[10],
-                    "data_source": row[11]
                 })
+
         except Exception as e:
             print(f"API error for store {store_id}: {e}")
 
     return all_rows
 
 
+# ---------------------------
+# PRINT FUNCTIONS
+# ---------------------------
 def print_local_results(rows):
-    print("\nFound in local database:")
-    for row in rows:
-        store_name, product_name, brand, price, promo_price = row
-        print(f"{store_name} | {brand} | {product_name} | regular: {price} | promo: {promo_price}")
+    print("\n=== Local Database Results ===")
+    for store_name, product_name, brand, price, promo_price in rows:
+        print(f"{store_name} | {brand} | {product_name} | ${price} | promo: {promo_price}")
 
 
 def print_api_results(rows):
-    print("\nFound in Kroger API:")
+    print("\n=== Kroger API Results ===")
     for item in rows:
         print(
-            f"{item['store_address']} | "
+            f"{item['store_name']} | "
             f"{item['brand']} | "
             f"{item['item_name']} | "
-            f"regular: {item['price_regular']} | "
-            f"promo: {item['price_promo']}"
+            f"${item['price_regular']} | promo: {item['price_promo']}"
         )
 
 
+# ---------------------------
+# MAIN
+# ---------------------------
 def main():
     print("Looking for DB at:", DB_PATH)
     print("Exists:", os.path.exists(DB_PATH))
@@ -93,21 +96,22 @@ def main():
     conn = sqlite3.connect(DB_PATH)
 
     try:
+        # 1. LOCAL SEARCH
         local_results = search_local_db(conn, search_term)
 
         if local_results:
             print_local_results(local_results)
-            return
+        else:
+            print("\nNo local database results found.")
 
-        print("\nNo local database results found.")
-        print("Searching Kroger API...")
-
+        # 2. ALWAYS CALL API (NEW BEHAVIOR)
+        print("\nSearching Kroger API...")
         api_results = search_kroger_api_all_stores(search_term)
 
         if api_results:
             print_api_results(api_results)
         else:
-            print("\nNo results found anywhere.")
+            print("\nNo results found from Kroger API.")
 
     finally:
         conn.close()
