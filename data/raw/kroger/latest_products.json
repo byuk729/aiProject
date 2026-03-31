@@ -1,238 +1,962 @@
 {
   "data": [
     {
-      "productId": "0031015885116",
-      "upc": "0031015885116",
-      "productPageURI": "/p/sensodyne-repair-protect-fluoride-toothpaste-for-sensitive-teeth-and-cavity-protection-whitening/0031015885116?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "productId": "0001111091629",
+      "upc": "0001111091629",
+      "productPageURI": "/p/kroger-romaine-lettuce-hearts/0001111091629?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aliasProductIds": [
+        "00738761500018",
+        "00027918205242",
+        "00716519080050",
+        "00893318002015",
+        "00453888803186",
+        "00605806000331",
+        "00045388880318",
+        "06825534016594",
+        "00030223040705",
+        "00060556900209",
+        "00740695651728",
+        "00071430009697",
+        "00714300098642",
+        "00060556900100",
+        "00060580600335",
+        "00072668001569",
+        "00060556900506",
+        "00073150184654",
+        "00854186005324",
+        "00073574002503",
+        "00885460000032",
+        "00011150989138",
+        "00000651003214",
+        "00030746000019",
+        "00071430009840",
+        "00016519080006",
+        "00856694007234",
+        "00858959004927",
+        "00042932773492",
+        "00005806000339",
+        "00788336122114",
+        "00733383651629",
+        "00023525401237",
+        "00071279265018",
+        "00742932773491",
+        "00088336122115",
+        "00042388880317",
+        "00033383651620",
+        "00040695030074",
+        "00060556900001",
+        "00860401000487",
+        "00072668601004",
+        "00765321651620",
+        "00740695030073",
+        "00071430009864",
+        "00071430009550",
+        "00071279944593",
+        "00030223041320",
+        "00012842040045",
+        "00012842031135",
+        "00716519080005",
+        "00740695651629",
+        "00865393000132",
+        "00073150000046"
+      ],
       "aisleLocations": [],
-      "brand": "Sensodyne",
+      "brand": "Fresh Romaine Lettuce",
       "categories": [
-        "Personal Care",
-        "Personal Care"
+        "Produce"
       ],
-      "countryOrigin": "PUERTO RICO",
-      "description": "Sensodyne Repair & Protect, Fluoride Toothpaste For Sensitive Teeth and Cavity Protection, Whitening",
+      "countryOrigin": "UNITED STATES",
+      "description": "Fresh Romaine Hearts",
+      "snapEligible": true,
+      "manufacturerDeclarations": [
+        "GMO Free",
+        "Vegan"
+      ],
       "allergens": [
         {
-          "levelOfContainmentName": "Free from",
+          "levelOfContainmentName": "Undeclared",
           "name": "Does Not Contain Declaration Obligatory Allergens"
         }
       ],
-      "allergensDescription": "Free from Does Not Contain Declaration Obligatory Allergens.",
+      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
+      "nonGmo": true,
+      "nonGmoClaimName": "PRODUCT LABELED WITH NON-GMO CLAIM",
       "organicClaimName": "NO",
-      "receiptDescription": "SNSDYNE TOOTHPASTE",
+      "receiptDescription": "ROMAINE HEARTS",
       "restrictions": {},
-      "warnings": "When using this product,\nif irritation occurs discontinue use.\nStop use and ask a dentist if \u2022the problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist.\u2022pain/sensitivity still persists after 4 weeks of use.\nKeep out of reach of children.\nIf more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.",
       "images": [
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0031015885116"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0031015885116"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0031015885116"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0031015885116"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0031015885116"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0031015885116"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0031015885116"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0031015885116"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0031015885116"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0031015885116"
-            }
-          ]
-        },
         {
           "perspective": "front",
           "featured": true,
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0031015885116"
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111091629"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0031015885116"
+              "url": "https://www.kroger.com/product/images/large/front/0001111091629"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0031015885116"
+              "url": "https://www.kroger.com/product/images/medium/front/0001111091629"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0031015885116"
+              "url": "https://www.kroger.com/product/images/small/front/0001111091629"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0031015885116"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0031015885116"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0031015885116"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0031015885116"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0031015885116"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0031015885116"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0031015885116"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0031015885116"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0031015885116"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0031015885116"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0031015885116"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0031015885116"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0031015885116"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0031015885116"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0031015885116"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0031015885116"
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111091629"
             }
           ]
         }
       ],
       "items": [
         {
-          "itemId": "0031015885116",
-          "inventory": {
-            "stockLevel": "TEMPORARILY_OUT_OF_STOCK"
-          },
+          "itemId": "0001111091629",
           "favorite": false,
           "fulfillment": {
-            "curbside": false,
-            "delivery": false,
-            "inStore": false,
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
             "shipToHome": false
           },
           "price": {
-            "regular": 14.99,
+            "regular": 4.99,
+            "promo": 4.79,
             "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
+              "value": "2026-04-01T03:59:59.999Z",
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-02-18T03:26:26.816Z",
+              "value": "2026-03-25T02:16:07.905Z",
               "timezone": "Z"
             }
           },
-          "size": "2 ct / 3.4 oz",
+          "size": "18 oz",
           "soldBy": "UNIT"
         }
       ],
       "itemInformation": {
-        "depth": "1.5",
-        "height": "3.5",
-        "width": "6.56",
-        "grossWeight": "0.53 [lb_av]",
-        "netWeight": "0.44 [lb_av]"
+        "depth": "9.25",
+        "height": "3.75",
+        "width": "11.95",
+        "grossWeight": "1.36 [lb_av]",
+        "netWeight": "1.0 [lb_av]"
       },
       "temperature": {
-        "indicator": "Ambient",
+        "indicator": "Refrigerated",
         "heatSensitive": false
       },
       "ratingsAndReviews": {
-        "averageOverallRating": 4.45,
-        "totalReviewCount": 6891
+        "averageOverallRating": 2.38,
+        "totalReviewCount": 29
       },
       "nutritionInformation": null
     },
     {
-      "productId": "0003077205885",
-      "upc": "0003077205885",
-      "productPageURI": "/p/crest-pro-health-clean-mint-toothpaste/0003077205885?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "productId": "0000000004061",
+      "upc": "0000000004061",
+      "productPageURI": "/p/wrapped-iceberg-lettuce/0000000004061?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aliasProductIds": [
+        "00812856012102",
+        "00060556200903",
+        "00060556200101",
+        "00221328000606",
+        "00855376007470",
+        "00060556200408",
+        "00044100004650",
+        "00060556200200",
+        "00846334000336",
+        "00740695650219",
+        "00060556200002",
+        "00041163453272",
+        "00856694007241",
+        "00060556201108",
+        "00027190406146",
+        "00740695650202",
+        "00846334000343",
+        "00060556290003",
+        "00060556200804",
+        "00060556201603",
+        "00033383650029",
+        "00885460000049",
+        "00060556201207",
+        "00765321650203",
+        "00045255246926",
+        "00074494009535",
+        "00733821046345",
+        "00866135000021",
+        "00060556200705",
+        "00060556201504",
+        "00071430031889",
+        "00060556201306",
+        "00721328000601",
+        "00073574650506",
+        "00060556201009",
+        "00060556201801",
+        "00605806000294",
+        "00060556200606",
+        "00846334000480",
+        "00615913000124",
+        "00085460000043",
+        "00060556201405",
+        "00850677002797",
+        "00060556200507",
+        "00060556200309",
+        "00033383650708",
+        "00079816905038",
+        "00060556201702",
+        "00072668100019",
+        "00073876130010",
+        "00027918040614",
+        "00073150028415",
+        "00000651011004",
+        "00000000046343",
+        "00011150990134",
+        "00738761300151",
+        "00073574650209",
+        "00733821040619",
+        "00659513000122",
+        "08589590040105",
+        "00033383650203",
+        "00858959004910",
+        "00648196683432",
+        "00639993485725",
+        "00765321000046",
+        "00071430031872",
+        "00035724000128",
+        "00023523000005",
+        "00036558000018",
+        "00023525000010",
+        "00038523380118",
+        "00048006000051",
+        "00048130015600",
+        "00033383650036",
+        "00204061000003",
+        "00072036880246",
+        "00071431400004",
+        "00033383050201",
+        "00030223181521",
+        "00072668700042",
+        "00033383650524",
+        "00072668000074",
+        "00030223151524",
+        "00030223141525",
+        "00033383650531",
+        "00045388000068",
+        "00030223162520",
+        "00071279000053",
+        "00071279871110",
+        "00073574000073",
+        "00030223191520",
+        "00071430008003",
+        "00071430000014",
+        "00081279000052",
+        "00850063113021",
+        "00846429000005"
+      ],
       "aisleLocations": [],
-      "brand": "Crest",
       "categories": [
-        "Personal Care",
-        "Personal Care"
+        "Produce"
       ],
       "countryOrigin": "UNITED STATES",
-      "description": "Crest Pro-Health Clean Mint Toothpaste",
+      "description": "Wrapped Iceberg Lettuce",
+      "snapEligible": true,
+      "allergens": [
+        {
+          "levelOfContainmentName": "Undeclared",
+          "name": "Does Not Contain Declaration Obligatory Allergens"
+        }
+      ],
+      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
+      "organicClaimName": "NO",
+      "receiptDescription": "ICEBERG LETTUCE",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0000000004061"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0000000004061"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0000000004061"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0000000004061"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0000000004061"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0000000004061",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 1.49,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2026-03-04T03:05:23.146Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "1 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "5.95",
+        "height": "5.15",
+        "width": "6.15",
+        "grossWeight": "1.45 [lb_av]",
+        "netWeight": "1.0 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 1.7,
+        "totalReviewCount": 147
+      },
+      "nutritionInformation": [
+        {
+          "ingredientStatement": "iceberg lettuce",
+          "servingSize": {
+            "quantity": 85,
+            "unitOfMeasure": {
+              "abbreviation": "g",
+              "code": "GRM",
+              "name": "Gram"
+            }
+          },
+          "nutrients": [
+            {
+              "code": "PRO-",
+              "description": "protein, total; method of determination unknown or variable",
+              "displayName": "Protein",
+              "quantity": 1,
+              "precision": {
+                "code": "LESS_THAN",
+                "name": "Less than"
+              },
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "P",
+              "description": "phosphorus",
+              "displayName": "Phosphorus",
+              "percentDailyIntake": 1.4,
+              "quantity": 20,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "VITD",
+              "description": "vitamin D; calculated by summation of ergocalciferol and cholecalciferol",
+              "displayName": "Vitamin D",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MC",
+                "name": "Microgram"
+              }
+            },
+            {
+              "code": "CA",
+              "description": "calcium",
+              "displayName": "Calcium",
+              "percentDailyIntake": 1.2,
+              "quantity": 20,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "SUGAR",
+              "description": "sugars, total",
+              "displayName": "Sugar",
+              "quantity": 2,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "VITC",
+              "description": "vitamin C",
+              "displayName": "Vitamin C",
+              "percentDailyIntake": 4,
+              "quantity": 2,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "CHO-",
+              "description": "carbohydrate, total; method of determination unknown or variable",
+              "displayName": "Total Carbohydrate",
+              "quantity": 3,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "K",
+              "description": "potassium",
+              "displayName": "Potassium",
+              "percentDailyIntake": 2.6,
+              "quantity": 120,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "FAT",
+              "description": "fat, total",
+              "displayName": "Total Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "MG",
+              "description": "magnesium",
+              "displayName": "Magnesium",
+              "percentDailyIntake": 1.4,
+              "quantity": 5,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "NA",
+              "description": "sodium",
+              "displayName": "Sodium",
+              "quantity": 10,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "FE",
+              "description": "iron, total",
+              "displayName": "Iron",
+              "percentDailyIntake": 1.9,
+              "quantity": 0.3,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "FASAT",
+              "description": "fatty acids, total saturated",
+              "displayName": "Saturated Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "ENER-",
+              "description": "energy; method of determination unknown or variable",
+              "displayName": "Calories",
+              "quantity": 10,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "E14",
+                "name": "Kilocalorie (international table)"
+              }
+            },
+            {
+              "code": "FATRN",
+              "description": "fatty acids, total trans",
+              "displayName": "Trans Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "VITA",
+              "description": "vitamin A; calculated by summation of the vitamin A activities of retinol and the active carotenoids",
+              "displayName": "Vitamin A",
+              "percentDailyIntake": 2.4,
+              "quantity": 20,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MC",
+                "name": "Microgram"
+              }
+            },
+            {
+              "code": "FIBTSW",
+              "description": "fibre, total dietary; Wenlock modification",
+              "displayName": "Dietary Fiber",
+              "percentDailyIntake": 3.6,
+              "quantity": 1,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "SUGAD",
+              "description": "sugar, added",
+              "displayName": "Added Sugar",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "CHOL-",
+              "description": "cholesterol; method of determination unknown or variable",
+              "displayName": "Cholesterol",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            }
+          ],
+          "preparationState": {
+            "code": "UNSPECIFIED",
+            "name": "Unspecified"
+          },
+          "servingsPerPackage": {},
+          "nutritionalRating": "99"
+        }
+      ]
+    },
+    {
+      "productId": "0000000094640",
+      "upc": "0000000094640",
+      "productPageURI": "/p/organic-romaine-lettuce/0000000094640?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aliasProductIds": [
+        "00841352000085",
+        "00033383004372",
+        "00028764900343",
+        "00032601952440",
+        "00856093005008",
+        "00850310002030",
+        "00816717010450",
+        "00667796904099",
+        "00810846020540",
+        "08507960023824",
+        "00885435999408",
+        "00834106000974",
+        "00045009886316",
+        "00728733003227",
+        "00814905010466",
+        "00000651967035",
+        "00740695904091",
+        "00857323004129",
+        "08507860022828",
+        "00850043005674",
+        "00885564000211",
+        "00762453027866",
+        "00841325150038",
+        "00803944946409",
+        "00812963020182",
+        "00832046001846",
+        "00733821946409",
+        "00850796002388",
+        "00850786002282",
+        "00073574840303",
+        "00858959004248",
+        "00829808000551",
+        "00857417005230",
+        "00854186005065"
+      ],
+      "aisleLocations": [],
+      "categories": [
+        "Natural & Organic",
+        "Produce"
+      ],
+      "countryOrigin": "MEXICO; UNITED STATES",
+      "description": "Organic Romaine Lettuce",
+      "snapEligible": true,
+      "allergens": [
+        {
+          "levelOfContainmentName": "Undeclared",
+          "name": "Does Not Contain Declaration Obligatory Allergens"
+        }
+      ],
+      "allergensDescription": "Undeclared Does Not Contain Declaration Obligatory Allergens.",
+      "organicClaimName": "ORGANIC CLAIM AND NOT PRINTED ON PACKAGE",
+      "receiptDescription": "ROMAINE ORG",
+      "restrictions": {},
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0000000094640"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0000000094640"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0000000094640"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0000000094640"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0000000094640"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0000000094640",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 1.99,
+            "expirationDate": {
+              "value": "9999-12-31T00:00:00Z",
+              "timezone": "Z"
+            },
+            "effectiveDate": {
+              "value": "2025-11-05T08:56:39.488Z",
+              "timezone": "Z"
+            }
+          },
+          "size": "1 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "9.6",
+        "height": "6.15",
+        "width": "10.8",
+        "grossWeight": "0.61 [lb_av]",
+        "netWeight": "1.0 [lb_av]",
+        "averageWeightPerUnit": "0.99 [lb_av]"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      },
+      "ratingsAndReviews": {
+        "averageOverallRating": 1.13,
+        "totalReviewCount": 8
+      },
+      "nutritionInformation": [
+        {
+          "ingredientStatement": "romaine lettuce",
+          "servingSize": {
+            "quantity": 85,
+            "unitOfMeasure": {
+              "abbreviation": "g",
+              "code": "GRM",
+              "name": "Gram"
+            }
+          },
+          "nutrients": [
+            {
+              "code": "P",
+              "description": "phosphorus",
+              "displayName": "Phosphorus",
+              "percentDailyIntake": 2,
+              "quantity": 30,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "FASAT",
+              "description": "fatty acids, total saturated",
+              "displayName": "Saturated Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "CA",
+              "description": "calcium",
+              "displayName": "Calcium",
+              "percentDailyIntake": 2.2,
+              "quantity": 30,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "CHO-",
+              "description": "carbohydrate, total; method of determination unknown or variable",
+              "displayName": "Total Carbohydrate",
+              "quantity": 3,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "K",
+              "description": "potassium",
+              "displayName": "Potassium",
+              "percentDailyIntake": 4.5,
+              "quantity": 210,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "SUGAD",
+              "description": "sugar, added",
+              "displayName": "Added Sugar",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "SUGAR",
+              "description": "sugars, total",
+              "displayName": "Sugar",
+              "quantity": 1,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "VITC",
+              "description": "vitamin C",
+              "displayName": "Vitamin C",
+              "percentDailyIntake": 5.7,
+              "quantity": 3,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "MG",
+              "description": "magnesium",
+              "displayName": "Magnesium",
+              "percentDailyIntake": 2.8,
+              "quantity": 10,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "FAT",
+              "description": "fat, total",
+              "displayName": "Total Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "FIBTSW",
+              "description": "fibre, total dietary; Wenlock modification",
+              "displayName": "Dietary Fiber",
+              "percentDailyIntake": 6.4,
+              "quantity": 2,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "VITD",
+              "description": "vitamin D; calculated by summation of ergocalciferol and cholecalciferol",
+              "displayName": "Vitamin D",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MC",
+                "name": "Microgram"
+              }
+            },
+            {
+              "code": "CHOL-",
+              "description": "cholesterol; method of determination unknown or variable",
+              "displayName": "Cholesterol",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "PRO-",
+              "description": "protein, total; method of determination unknown or variable",
+              "displayName": "Protein",
+              "quantity": 1,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "NA",
+              "description": "sodium",
+              "displayName": "Sodium",
+              "quantity": 5,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            },
+            {
+              "code": "VITA",
+              "description": "vitamin A; calculated by summation of the vitamin A activities of retinol and the active carotenoids",
+              "displayName": "Vitamin A",
+              "percentDailyIntake": 41.2,
+              "quantity": 370,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MC",
+                "name": "Microgram"
+              }
+            },
+            {
+              "code": "ENER-",
+              "description": "energy; method of determination unknown or variable",
+              "displayName": "Calories",
+              "quantity": 15,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "E14",
+                "name": "Kilocalorie (international table)"
+              }
+            },
+            {
+              "code": "FATRN",
+              "description": "fatty acids, total trans",
+              "displayName": "Trans Fat",
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "GRM",
+                "name": "Gram"
+              }
+            },
+            {
+              "code": "FE",
+              "description": "iron, total",
+              "displayName": "Iron",
+              "percentDailyIntake": 4.6,
+              "quantity": 0.8,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
+              }
+            }
+          ],
+          "preparationState": {
+            "code": "UNSPECIFIED",
+            "name": "Unspecified"
+          },
+          "servingsPerPackage": {},
+          "nutritionalRating": "100"
+        }
+      ]
+    },
+    {
+      "productId": "0085706200441",
+      "upc": "0085706200441",
+      "productPageURI": "/p/brightfarms-spring-mix-lettuce-4oz-salad/0085706200441?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "aliasProductIds": [
+        "00011150938150"
+      ],
+      "aisleLocations": [],
+      "brand": "Bright Farms",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "BrightFarms Spring Mix Lettuce, 4oz Salad",
+      "snapEligible": true,
+      "manufacturerDeclarations": [
+        "Live Naturally",
+        "GMO Free"
+      ],
       "allergens": [
         {
           "levelOfContainmentName": "Free from",
@@ -240,33 +964,35 @@
         }
       ],
       "allergensDescription": "Free from Does Not Contain Declaration Obligatory Allergens.",
+      "nonGmo": true,
+      "nonGmoClaimName": "PRODUCT LABELED WITH NON-GMO CLAIM",
       "organicClaimName": "NO",
-      "receiptDescription": "CREST P-HLTH VP TP",
+      "receiptDescription": "BRFR SPRING MIX",
       "restrictions": {},
+      "warnings": "N/A",
       "images": [
         {
-          "perspective": "front",
-          "featured": true,
+          "perspective": "back",
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0003077205885"
+              "url": "https://www.kroger.com/product/images/xlarge/back/0085706200441"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0003077205885"
+              "url": "https://www.kroger.com/product/images/large/back/0085706200441"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0003077205885"
+              "url": "https://www.kroger.com/product/images/medium/back/0085706200441"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0003077205885"
+              "url": "https://www.kroger.com/product/images/small/back/0085706200441"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0003077205885"
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0085706200441"
             }
           ]
         },
@@ -275,247 +1001,23 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0003077205885"
+              "url": "https://www.kroger.com/product/images/xlarge/right/0085706200441"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0003077205885"
+              "url": "https://www.kroger.com/product/images/large/right/0085706200441"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0003077205885"
+              "url": "https://www.kroger.com/product/images/medium/right/0085706200441"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0003077205885"
+              "url": "https://www.kroger.com/product/images/small/right/0085706200441"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0003077205885"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0003077205885"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0003077205885"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0003077205885"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0003077205885"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0003077205885"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0003077205885"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0003077205885"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0003077205885"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0003077205885"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0003077205885"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0003077205885"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0003077205885"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0003077205885"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0003077205885"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0003077205885"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0003077205885"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0003077205885"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0003077205885"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0003077205885"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0003077205885"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0003077205885",
-          "favorite": false,
-          "fulfillment": {
-            "curbside": false,
-            "delivery": false,
-            "inStore": false,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 10.29,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2026-02-25T04:12:39.331Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "2 pk / 4.3 oz",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "1.5",
-        "height": "3.15",
-        "width": "7.09",
-        "grossWeight": "0.62 [lb_av]",
-        "netWeight": "0.61 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Ambient",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 4.4,
-        "totalReviewCount": 247
-      },
-      "nutritionInformation": null
-    },
-    {
-      "productId": "0003077222586",
-      "upc": "0003077222586",
-      "productPageURI": "/p/crest-toothpaste-clean-breath-spearmint-4-6-oz-neutralizes-bad-breath/0003077222586?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [
-        {
-          "bayNumber": "24",
-          "description": "AISLE 9",
-          "number": "9",
-          "numberOfFacings": "1",
-          "side": "R",
-          "shelfNumber": "2",
-          "shelfPositionInBay": "206"
-        }
-      ],
-      "brand": "Crest",
-      "categories": [
-        "Personal Care"
-      ],
-      "countryOrigin": "UNITED STATES",
-      "description": "Crest Toothpaste Clean Breath Spearmint 4.6 oz - Neutralizes Bad Breath",
-      "allergens": [
-        {
-          "levelOfContainmentName": "Free from",
-          "name": "Does Not Contain Declaration Obligatory Allergens"
-        }
-      ],
-      "allergensDescription": "Free from Does Not Contain Declaration Obligatory Allergens.",
-      "receiptDescription": "CREST CLN BRTH TP",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0003077222586"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0003077222586"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0003077222586"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0003077222586"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0003077222586"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0003077222586"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0003077222586"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0003077222586"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0003077222586"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0003077222586"
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0085706200441"
             }
           ]
         },
@@ -525,48 +1027,23 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0003077222586"
+              "url": "https://www.kroger.com/product/images/xlarge/front/0085706200441"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0003077222586"
+              "url": "https://www.kroger.com/product/images/large/front/0085706200441"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0003077222586"
+              "url": "https://www.kroger.com/product/images/medium/front/0085706200441"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0003077222586"
+              "url": "https://www.kroger.com/product/images/small/front/0085706200441"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0003077222586"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0003077222586"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0003077222586"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0003077222586"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0003077222586"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0003077222586"
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0085706200441"
             }
           ]
         },
@@ -575,55 +1052,30 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0003077222586"
+              "url": "https://www.kroger.com/product/images/xlarge/left/0085706200441"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0003077222586"
+              "url": "https://www.kroger.com/product/images/large/left/0085706200441"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0003077222586"
+              "url": "https://www.kroger.com/product/images/medium/left/0085706200441"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0003077222586"
+              "url": "https://www.kroger.com/product/images/small/left/0085706200441"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0003077222586"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0003077222586"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0003077222586"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0003077222586"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0003077222586"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0003077222586"
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0085706200441"
             }
           ]
         }
       ],
       "items": [
         {
-          "itemId": "0003077222586",
+          "itemId": "0085706200441",
           "inventory": {
             "stockLevel": "HIGH"
           },
@@ -635,1388 +1087,60 @@
             "shipToHome": false
           },
           "price": {
-            "regular": 9.99,
-            "promo": 8.99,
-            "expirationDate": {
-              "value": "2026-04-08T03:59:59.999Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2026-03-25T02:16:16.550Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "4.6 oz",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "1.47",
-        "height": "7.15",
-        "width": "2.0",
-        "grossWeight": "0.34 [lb_av]",
-        "netWeight": "0.34 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Ambient",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 4.8,
-        "totalReviewCount": 148
-      },
-      "nutritionInformation": null
-    },
-    {
-      "productId": "0003700090734",
-      "upc": "0003700090734",
-      "productPageURI": "/p/crest-scope-mint-outlast-complete-whitening-toothpaste-value-pack/0003700090734?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [
-        {
-          "bayNumber": "03",
-          "description": "HEALTH AND WELLNESS",
-          "number": "202",
-          "numberOfFacings": "1",
-          "side": "R",
-          "shelfNumber": "6",
-          "shelfPositionInBay": "232"
-        }
-      ],
-      "brand": "Crest",
-      "categories": [
-        "Personal Care",
-        "Personal Care"
-      ],
-      "countryOrigin": "UNITED STATES",
-      "description": "Crest + Scope Mint Outlast Complete Whitening Toothpaste Value Pack",
-      "allergens": [
-        {
-          "levelOfContainmentName": "Free from",
-          "name": "Cereals and Their Derivatives"
-        }
-      ],
-      "allergensDescription": "Free from Cereals and Their Derivatives.",
-      "organicClaimName": "NO",
-      "receiptDescription": "CREST CMPL WHTN TP",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0003700090734"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0003700090734"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0003700090734"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0003700090734"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0003700090734"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0003700090734"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0003700090734"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0003700090734"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0003700090734"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0003700090734"
-            }
-          ]
-        },
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0003700090734"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0003700090734"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0003700090734"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0003700090734"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0003700090734"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0003700090734"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0003700090734"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0003700090734"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0003700090734"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0003700090734"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0003700090734"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0003700090734"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0003700090734"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0003700090734"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0003700090734"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0003700090734"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0003700090734"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0003700090734"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0003700090734"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0003700090734"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0003700090734",
-          "inventory": {
-            "stockLevel": "HIGH"
-          },
-          "favorite": false,
-          "fulfillment": {
-            "curbside": true,
-            "delivery": true,
-            "inStore": true,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 9.99,
+            "regular": 3.99,
             "expirationDate": {
               "value": "9999-12-31T00:00:00Z",
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-03-11T02:34:44.633Z",
+              "value": "2026-03-25T03:50:14.294Z",
               "timezone": "Z"
             }
           },
-          "size": "2 pk / 5.4 oz",
+          "size": "4 oz",
           "soldBy": "UNIT"
         }
       ],
       "itemInformation": {
-        "depth": "1.52",
-        "height": "3.22",
-        "width": "8.86",
-        "grossWeight": "0.77 [lb_av]",
-        "netWeight": "0.77 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Ambient",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 4.62,
-        "totalReviewCount": 3685
-      },
-      "nutritionInformation": null
-    },
-    {
-      "productId": "0031015808414",
-      "upc": "0031015808414",
-      "productPageURI": "/p/sensodyne-toothpaste-for-sensitive-teeth-and-cavity-protection-extra-whitening/0031015808414?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [
-        {
-          "bayNumber": "03",
-          "description": "HEALTH AND WELLNESS",
-          "number": "202",
-          "numberOfFacings": "1",
-          "side": "R",
-          "shelfNumber": "4",
-          "shelfPositionInBay": "220"
-        }
-      ],
-      "brand": "Sensodyne",
-      "categories": [
-        "Personal Care",
-        "Personal Care"
-      ],
-      "countryOrigin": "PUERTO RICO",
-      "description": "Sensodyne, Toothpaste For Sensitive Teeth and Cavity Protection, Extra Whitening",
-      "organicClaimName": "NO",
-      "receiptDescription": "SNSDYNE EX WHT TP",
-      "restrictions": {},
-      "warnings": "When using this product, if irritation occurs discontinue use. Stop use and ask a dentist if the problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist. Stop use and ask a dentist if pain/sensitivity still persists after 4 weeks of use. Keep out of reach of children. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.",
-      "images": [
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0031015808414"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0031015808414"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0031015808414"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0031015808414"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0031015808414"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0031015808414"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0031015808414"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0031015808414"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0031015808414"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0031015808414"
-            }
-          ]
-        },
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0031015808414"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0031015808414"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0031015808414"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0031015808414"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0031015808414"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0031015808414"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0031015808414"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0031015808414"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0031015808414"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0031015808414"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0031015808414"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0031015808414"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0031015808414"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0031015808414"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0031015808414"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0031015808414"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0031015808414"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0031015808414"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0031015808414"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0031015808414"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0031015808414",
-          "inventory": {
-            "stockLevel": "LOW"
-          },
-          "favorite": false,
-          "fulfillment": {
-            "curbside": true,
-            "delivery": true,
-            "inStore": true,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 13.99,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2026-02-18T04:06:19.989Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "2 ct / 4 oz",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "1.59",
-        "height": "3.08",
-        "width": "7.22",
-        "grossWeight": "0.76 [lb_av]",
-        "netWeight": "0.49 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Ambient",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 4.55,
-        "totalReviewCount": 2097
-      },
-      "nutritionInformation": null
-    },
-    {
-      "productId": "0003077212547",
-      "upc": "0003077212547",
-      "productPageURI": "/p/crest-3d-white-advanced-teeth-whitening-toothpaste-radiant-mint/0003077212547?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [
-        {
-          "bayNumber": "24",
-          "description": "AISLE 9",
-          "number": "9",
-          "numberOfFacings": "1",
-          "side": "R",
-          "shelfNumber": "3",
-          "shelfPositionInBay": "211"
-        }
-      ],
-      "brand": "Crest",
-      "categories": [
-        "Personal Care",
-        "Personal Care"
-      ],
-      "countryOrigin": "UNITED STATES",
-      "description": "Crest 3D White Advanced Teeth Whitening Toothpaste, Radiant Mint",
-      "allergens": [
-        {
-          "levelOfContainmentName": "Free from",
-          "name": "Cereals and Their Derivatives"
-        }
-      ],
-      "allergensDescription": "Free from Cereals and Their Derivatives.",
-      "organicClaimName": "NO",
-      "receiptDescription": "CR 3DW RAD MINT",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0003077212547"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0003077212547"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0003077212547"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0003077212547"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0003077212547"
-            }
-          ]
-        },
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0003077212547"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0003077212547"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0003077212547"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0003077212547"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0003077212547"
-            }
-          ]
-        },
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0003077212547"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0003077212547"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0003077212547"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0003077212547"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0003077212547"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0003077212547"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0003077212547"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0003077212547"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0003077212547"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0003077212547"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0003077212547"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0003077212547"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0003077212547"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0003077212547"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0003077212547"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0003077212547"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0003077212547"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0003077212547"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0003077212547"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0003077212547"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0003077212547",
-          "inventory": {
-            "stockLevel": "HIGH"
-          },
-          "favorite": false,
-          "fulfillment": {
-            "curbside": true,
-            "delivery": true,
-            "inStore": true,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 6.99,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2026-02-25T04:13:21.544Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "3.3 oz",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "1.5",
-        "height": "1.89",
-        "width": "7.09",
-        "grossWeight": "0.26 [lb_av]",
+        "depth": "2.65",
+        "height": "8.74",
+        "width": "7.79",
+        "grossWeight": "0.25 [lb_av]",
         "netWeight": "0.25 [lb_av]"
       },
       "temperature": {
-        "indicator": "Ambient",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 4.57,
-        "totalReviewCount": 12293
-      },
-      "nutritionInformation": null
-    },
-    {
-      "productId": "0003320018013",
-      "upc": "0003320018013",
-      "productPageURI": "/p/arm-hammer-advance-white-toothpaste-twin-pack-clean-mint-anticavity-fluoride-whitening/0003320018013?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [],
-      "brand": "Arm & Hammer",
-      "categories": [
-        "Personal Care",
-        "Personal Care"
-      ],
-      "countryOrigin": "UNITED STATES",
-      "description": "ARM & HAMMER Advance White Toothpaste Twin Pack Clean Mint Anticavity Fluoride Whitening",
-      "allergens": [
-        {
-          "levelOfContainmentName": "Free from",
-          "name": "Does Not Contain Declaration Obligatory Allergens"
-        }
-      ],
-      "allergensDescription": "Free from Does Not Contain Declaration Obligatory Allergens.",
-      "organicClaimName": "NO",
-      "receiptDescription": "AHMR TOOTHPASTE",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0003320018013"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0003320018013"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0003320018013"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0003320018013"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0003320018013"
-            }
-          ]
-        },
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0003320018013"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0003320018013"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0003320018013"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0003320018013"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0003320018013"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0003320018013"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0003320018013"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0003320018013"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0003320018013"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0003320018013"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0003320018013"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0003320018013"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0003320018013"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0003320018013"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0003320018013"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0003320018013"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0003320018013"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0003320018013"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0003320018013"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0003320018013"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0003320018013"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0003320018013"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0003320018013"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0003320018013"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0003320018013"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0003320018013",
-          "favorite": false,
-          "fulfillment": {
-            "curbside": false,
-            "delivery": false,
-            "inStore": false,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 10.19,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2025-04-23T07:58:24.941Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "2 ct / 6 oz",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "1.54",
-        "height": "3.83",
-        "width": "8.55",
-        "grossWeight": "0.88 [lb_av]",
-        "netWeight": "0.76 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Ambient",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 4.19,
-        "totalReviewCount": 481
-      },
-      "nutritionInformation": null
-    },
-    {
-      "productId": "0082785402688",
-      "upc": "0082785402688",
-      "productPageURI": "/p/colgate-optic-white-stain-fighter-teeth-whitening-toothpaste-double-pack-in-clean-mint-paste/0082785402688?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [],
-      "brand": "Colgate",
-      "categories": [
-        "Personal Care"
-      ],
-      "countryOrigin": "MEXICO",
-      "description": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste Double Pack in Clean Mint Paste",
-      "allergens": [
-        {
-          "levelOfContainmentName": "Free from",
-          "name": "Cereals and Their Derivatives"
-        }
-      ],
-      "allergensDescription": "Free from Cereals and Their Derivatives.",
-      "receiptDescription": "COLG TOOTHPASTE",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0082785402688"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0082785402688"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0082785402688"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0082785402688"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0082785402688"
-            }
-          ]
-        },
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0082785402688"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0082785402688"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0082785402688"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0082785402688"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0082785402688"
-            }
-          ]
-        },
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0082785402688"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0082785402688"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0082785402688"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0082785402688"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0082785402688"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0082785402688"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0082785402688"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0082785402688"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0082785402688"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0082785402688"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0082785402688"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0082785402688"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0082785402688"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0082785402688"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0082785402688"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0082785402688"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0082785402688"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0082785402688"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0082785402688"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0082785402688"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0082785402688",
-          "favorite": false,
-          "fulfillment": {
-            "curbside": false,
-            "delivery": false,
-            "inStore": false,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 12.99,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2026-03-18T02:13:22.447Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "2 pk / 3.8 oz",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "1.61",
-        "height": "3.89",
-        "width": "6.26",
-        "grossWeight": "0.58 [lb_av]",
-        "netWeight": "0.47 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Ambient",
-        "heatSensitive": false
-      },
-      "ratingsAndReviews": {
-        "averageOverallRating": 0,
-        "totalReviewCount": 0
-      },
-      "nutritionInformation": null
-    },
-    {
-      "productId": "0082785402721",
-      "upc": "0082785402721",
-      "productPageURI": "/p/hello-antiplaque-and-whitening-fluoride-free-toothpaste-double-pack-in-natural-peppermint/0082785402721?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
-      "aisleLocations": [],
-      "brand": "Hello",
-      "categories": [
-        "Personal Care",
-        "Natural & Organic"
-      ],
-      "countryOrigin": "UNITED STATES",
-      "description": "hello Antiplaque and Whitening Fluoride Free Toothpaste Double Pack in Natural Peppermint",
-      "receiptDescription": "HELLO ANTIPL",
-      "restrictions": {},
-      "images": [
-        {
-          "perspective": "right",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0082785402721"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0082785402721"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0082785402721"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0082785402721"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0082785402721"
-            }
-          ]
-        },
-        {
-          "perspective": "front",
-          "featured": true,
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0082785402721"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0082785402721"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0082785402721"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0082785402721"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0082785402721"
-            }
-          ]
-        },
-        {
-          "perspective": "back",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0082785402721"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0082785402721"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0082785402721"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0082785402721"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0082785402721"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0082785402721"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0082785402721"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0082785402721"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0082785402721"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0082785402721"
-            }
-          ]
-        },
-        {
-          "perspective": "left",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0082785402721"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0082785402721"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0082785402721"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0082785402721"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0082785402721"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0082785402721"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0082785402721"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0082785402721"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0082785402721"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0082785402721"
-            }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "itemId": "0082785402721",
-          "inventory": {
-            "stockLevel": "HIGH"
-          },
-          "favorite": false,
-          "fulfillment": {
-            "curbside": false,
-            "delivery": false,
-            "inStore": false,
-            "shipToHome": false
-          },
-          "price": {
-            "regular": 10.79,
-            "expirationDate": {
-              "value": "9999-12-31T00:00:00Z",
-              "timezone": "Z"
-            },
-            "effectiveDate": {
-              "value": "2026-03-18T02:13:35.324Z",
-              "timezone": "Z"
-            }
-          },
-          "size": "2 pk / 5.0 oz",
-          "soldBy": "UNIT"
-        }
-      ],
-      "itemInformation": {
-        "depth": "1.65",
-        "height": "7.16",
-        "width": "4.05",
-        "grossWeight": "0.73 [lb_av]",
-        "netWeight": "0.62 [lb_av]"
-      },
-      "temperature": {
-        "indicator": "Ambient",
+        "indicator": "Refrigerated",
         "heatSensitive": false
       },
       "ratingsAndReviews": {
         "averageOverallRating": 4.73,
-        "totalReviewCount": 15
+        "totalReviewCount": 63
       },
       "nutritionInformation": null
     },
     {
-      "productId": "0003700085379",
-      "upc": "0003700085379",
-      "productPageURI": "/p/crest-scope-minty-fresh-complete-whitening-toothpaste-value-pack/0003700085379?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
+      "productId": "0085706200484",
+      "upc": "0085706200484",
+      "productPageURI": "/p/brightfarms-sweet-baby-butter-leaf-lettuce-4-oz-salad/0085706200484?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
       "aisleLocations": [],
-      "brand": "Crest",
+      "brand": "Bright Farms",
       "categories": [
-        "Personal Care",
-        "Personal Care"
+        "Natural & Organic",
+        "Produce"
       ],
       "countryOrigin": "UNITED STATES",
-      "description": "Crest + Scope Minty Fresh Complete Whitening Toothpaste Value Pack",
-      "allergens": [
-        {
-          "levelOfContainmentName": "Free from",
-          "name": "Cereals and Their Derivatives"
-        }
+      "description": "BrightFarms Sweet Baby Butter Leaf Lettuce, 4 oz Salad",
+      "snapEligible": true,
+      "manufacturerDeclarations": [
+        "Live Naturally",
+        "GMO Free"
       ],
-      "allergensDescription": "Free from Cereals and Their Derivatives.",
+      "nonGmo": true,
+      "nonGmoClaimName": "PRODUCT LABELED WITH NON-GMO CLAIM",
       "organicClaimName": "NO",
-      "receiptDescription": "CREST CMPLT TPST",
+      "receiptDescription": "BRFR LETTUCE",
       "restrictions": {},
+      "warnings": "N/A",
       "images": [
         {
           "perspective": "front",
@@ -2024,23 +1148,23 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/front/0003700085379"
+              "url": "https://www.kroger.com/product/images/xlarge/front/0085706200484"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/front/0003700085379"
+              "url": "https://www.kroger.com/product/images/large/front/0085706200484"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/front/0003700085379"
+              "url": "https://www.kroger.com/product/images/medium/front/0085706200484"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/front/0003700085379"
+              "url": "https://www.kroger.com/product/images/small/front/0085706200484"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/front/0003700085379"
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0085706200484"
             }
           ]
         },
@@ -2049,23 +1173,23 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/right/0003700085379"
+              "url": "https://www.kroger.com/product/images/xlarge/right/0085706200484"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/right/0003700085379"
+              "url": "https://www.kroger.com/product/images/large/right/0085706200484"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/right/0003700085379"
+              "url": "https://www.kroger.com/product/images/medium/right/0085706200484"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/right/0003700085379"
+              "url": "https://www.kroger.com/product/images/small/right/0085706200484"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/right/0003700085379"
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0085706200484"
             }
           ]
         },
@@ -2074,73 +1198,23 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/back/0003700085379"
+              "url": "https://www.kroger.com/product/images/xlarge/back/0085706200484"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/back/0003700085379"
+              "url": "https://www.kroger.com/product/images/large/back/0085706200484"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/back/0003700085379"
+              "url": "https://www.kroger.com/product/images/medium/back/0085706200484"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/back/0003700085379"
+              "url": "https://www.kroger.com/product/images/small/back/0085706200484"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/back/0003700085379"
-            }
-          ]
-        },
-        {
-          "perspective": "bottom",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/bottom/0003700085379"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/bottom/0003700085379"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/bottom/0003700085379"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/bottom/0003700085379"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/bottom/0003700085379"
-            }
-          ]
-        },
-        {
-          "perspective": "top",
-          "sizes": [
-            {
-              "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/top/0003700085379"
-            },
-            {
-              "size": "large",
-              "url": "https://www.kroger.com/product/images/large/top/0003700085379"
-            },
-            {
-              "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/top/0003700085379"
-            },
-            {
-              "size": "small",
-              "url": "https://www.kroger.com/product/images/small/top/0003700085379"
-            },
-            {
-              "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/top/0003700085379"
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0085706200484"
             }
           ]
         },
@@ -2149,66 +1223,69 @@
           "sizes": [
             {
               "size": "xlarge",
-              "url": "https://www.kroger.com/product/images/xlarge/left/0003700085379"
+              "url": "https://www.kroger.com/product/images/xlarge/left/0085706200484"
             },
             {
               "size": "large",
-              "url": "https://www.kroger.com/product/images/large/left/0003700085379"
+              "url": "https://www.kroger.com/product/images/large/left/0085706200484"
             },
             {
               "size": "medium",
-              "url": "https://www.kroger.com/product/images/medium/left/0003700085379"
+              "url": "https://www.kroger.com/product/images/medium/left/0085706200484"
             },
             {
               "size": "small",
-              "url": "https://www.kroger.com/product/images/small/left/0003700085379"
+              "url": "https://www.kroger.com/product/images/small/left/0085706200484"
             },
             {
               "size": "thumbnail",
-              "url": "https://www.kroger.com/product/images/thumbnail/left/0003700085379"
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0085706200484"
             }
           ]
         }
       ],
       "items": [
         {
-          "itemId": "0003700085379",
+          "itemId": "0085706200484",
+          "inventory": {
+            "stockLevel": "HIGH"
+          },
           "favorite": false,
           "fulfillment": {
-            "curbside": false,
-            "delivery": false,
-            "inStore": false,
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
             "shipToHome": false
           },
           "price": {
-            "regular": 9.99,
+            "regular": 3.99,
             "expirationDate": {
               "value": "9999-12-31T00:00:00Z",
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2025-12-24T03:45:48.004Z",
+              "value": "2026-03-25T02:16:26.700Z",
               "timezone": "Z"
             }
           },
-          "size": "2 pk / 5.4 oz",
+          "size": "4 oz",
           "soldBy": "UNIT"
         }
       ],
       "itemInformation": {
-        "depth": "3.2",
-        "height": "1.55",
-        "width": "8.9",
-        "grossWeight": "0.75 [lb_av]",
-        "netWeight": "0.77 [lb_av]"
+        "depth": "2.65",
+        "height": "8.74",
+        "width": "7.79",
+        "grossWeight": "0.25 [lb_av]",
+        "netWeight": "0.25 [lb_av]"
       },
       "temperature": {
-        "indicator": "Ambient",
+        "indicator": "Refrigerated",
         "heatSensitive": false
       },
       "ratingsAndReviews": {
-        "averageOverallRating": 4.57,
-        "totalReviewCount": 8179
+        "averageOverallRating": 4.82,
+        "totalReviewCount": 22
       },
       "nutritionInformation": null
     }
@@ -2216,8 +1293,8 @@
   "meta": {
     "pagination": {
       "start": 0,
-      "limit": 10,
-      "total": 162
+      "limit": 5,
+      "total": 86
     }
   }
 }

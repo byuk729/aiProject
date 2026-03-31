@@ -4,8 +4,8 @@ import requests
 import base64
 
 # App credentials from Kroger developer portal (removed for now)
-CLIENT_ID = "fake id"
-CLIENT_SECRET = "fake secret"
+CLIENT_ID = "charlottesvillegroceriesfinderproject-bbcdx9xp"
+CLIENT_SECRET = "w4mPctUGuDcm4rkiXm9JQVk39ngFONEI6N1jPoZX"
 
 def get_access_token(scope):
     # Kroger token endpoint
