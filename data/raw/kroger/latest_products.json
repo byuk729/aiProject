@@ -127,13 +127,13 @@
       "productPageURI": "/p/eggland-s-best-classic-large-white-eggs-12-count/0071514150349?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
       "aisleLocations": [
         {
-          "bayNumber": "08",
+          "bayNumber": "23",
           "description": "DAIRY",
-          "number": "62",
+          "number": "60",
           "numberOfFacings": "1",
-          "side": "B",
+          "side": "R",
           "shelfNumber": "5",
-          "shelfPositionInBay": "28"
+          "shelfPositionInBay": "24"
         }
       ],
       "brand": "Eggland's Best",
@@ -335,7 +335,7 @@
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-02-11T04:09:24.161Z",
+              "value": "2026-02-11T03:22:06.023Z",
               "timezone": "Z"
             }
           },
@@ -864,13 +864,12 @@
           },
           "price": {
             "regular": 6.29,
-            "promo": 4.99,
             "expirationDate": {
-              "value": "2026-04-01T03:59:59.999Z",
+              "value": "9999-12-31T00:00:00Z",
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-03-25T02:16:19.250Z",
+              "value": "2026-04-01T02:03:35.251Z",
               "timezone": "Z"
             }
           },
@@ -1092,13 +1091,13 @@
       "productPageURI": "/p/simple-truth-organic-cage-free-grade-a-large-brown-eggs/0001111079772?cid=dis.api.tpi_products-api_20240521_b:all_c:p_t:charlottesvillegroce",
       "aisleLocations": [
         {
-          "bayNumber": "19",
+          "bayNumber": "11",
           "description": "DAIRY",
-          "number": "60",
-          "numberOfFacings": "2",
-          "side": "R",
+          "number": "62",
+          "numberOfFacings": "1",
+          "side": "B",
           "shelfNumber": "3",
-          "shelfPositionInBay": "108"
+          "shelfPositionInBay": "105"
         }
       ],
       "brand": "Simple Truth Organic",
@@ -1192,13 +1191,12 @@
           },
           "price": {
             "regular": 5.49,
-            "promo": 3.99,
             "expirationDate": {
-              "value": "2026-04-01T03:59:59.999Z",
+              "value": "9999-12-31T00:00:00Z",
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-03-25T05:18:49.454Z",
+              "value": "2026-04-01T01:43:26.011Z",
               "timezone": "Z"
             }
           },
