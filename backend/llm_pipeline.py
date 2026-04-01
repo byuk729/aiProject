@@ -18,23 +18,26 @@ def ask_ollama(prompt: str) -> str:
 
 
 def answer_with_context(user_query: str, retrieved_context: str) -> str:
-    full_prompt = prompt = f"""
-You are a grocery price assistant.
+    full_prompt = f"""
+    You are a grocery price assistant.
 
-Use ONLY the data below to answer the user's question.
+    Use ONLY the data below.
 
-Data:
-{retrieved_context}
+    Data:
+    {retrieved_context}
 
-User question:
-{user_query}
+    User question:
+    {user_query}
 
-Instructions:
-- Answer exactly what the user is asking (cheapest OR most expensive)
-- Be concise (1-2 sentences)
-- Clearly name the store and price
-- Do NOT explain your reasoning
+    Rules:
+    - Return exactly ONE result only.
+    - Do NOT list multiple options.
+    - Do NOT repeat the input data.
+    - Do NOT explain reasoning.
+    - Output exactly in this format and nothing else:
 
-Answer:
-"""
+    Store: <store name> | Item: <item name> | Price: <price>
+
+    Answer:
+    """
     return ask_ollama(full_prompt)
