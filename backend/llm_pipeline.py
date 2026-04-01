@@ -40,4 +40,4 @@ def answer_with_context(user_query: str, retrieved_context: str) -> str:
 
     Answer:
     """
-    return ask_ollama(full_prompt)
+    return ask_ollama(full_prompt).strip()

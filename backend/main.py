@@ -28,29 +28,12 @@ app.add_middleware(
 )
 
 class Prompt(BaseModel):
-    prompt: str = None
+    prompt: str
 
 class GroceryResponse(BaseModel):
     prompt: str
     answer: str
     
-# helper
-def normalize_search_term(user_query: str) -> str:
-    q = user_query.lower().replace("?", "").strip()
-
-    for word in [
-        "cheapest",
-        "most expensive",
-        "expensive",
-        "price",
-        "prices",
-        "place",
-        "to buy",
-    ]:
-        q = q.replace(word, "")
-
-    return q.strip()
-
 # helper
 def get_effective_price(item):
     return item["price_promo"] if item["price_promo"] else item["price_regular"]
@@ -122,6 +105,12 @@ def create_grocery_recs(prompt: Prompt) -> GroceryResponse:
 
     results = search_kroger_api_all_stores(search_term)
     retrieved_context = build_context_from_results(results, mode)
+
+    if retrieved_context == "No matching products found.":
+        return GroceryResponse(
+            prompt=prompt.prompt,
+            answer="No matching products found."
+        )
 
     answer = answer_with_context(prompt.prompt, retrieved_context)
 
