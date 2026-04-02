@@ -42,7 +42,7 @@ function App() {
   const [response, setResponse] = useState("")
   async function onSubmit(data: z.infer<typeof formSchema>) {
     const rec = await getGroceryRecs(data)
-    setResponse(rec.prompt)
+    setResponse(rec.answer)
     reset()
   }
     return (

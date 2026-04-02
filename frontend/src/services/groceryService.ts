@@ -7,6 +7,7 @@ export type GroceryRequest = {
 
 export type GroceryResponse = {
   prompt: string;
+  answer: string;
 }
 
 export async function getGroceryRecs(
