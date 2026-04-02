@@ -1,5 +1,6 @@
 import os
 import sys
+import re
 from fastapi import FastAPI
 from pydantic import BaseModel
 
@@ -59,13 +60,21 @@ def parse_query(user_query: str) -> dict:
         mode = "cheapest"
 
     filler_words = cheapest_words + expensive_words + [
-        "what is", "whats", "where is", "where can i get",
-        "to buy", "buy", "find", "the", "price", "of"
-    ]
+    "what is", "whats", "where is", "where can i get",
+    "to buy", "buy", "find", "the", "price", "of", "and",
+    "i need", "i want", "near uva", "near me", "in charlottesville",
+    "budget around", "budget of", "with a budget", "budget",
+    "with", "near", "please", "around", "a"
+]
 
     cleaned = q
-    for word in filler_words:
-        cleaned = cleaned.replace(word, "")
+    # remove dollar amounts first
+    cleaned = re.sub(r'\$\d+', '', cleaned)
+    cleaned = re.sub(r'\d+ dollars', '', cleaned)
+
+    # strip whole words only using word boundaries
+    for phrase in filler_words:
+        cleaned = re.sub(rf'\b{re.escape(phrase)}\b', ' ', cleaned)
 
     search_term = " ".join(cleaned.split()).strip()
 
@@ -103,15 +112,47 @@ def create_grocery_recs(prompt: Prompt) -> GroceryResponse:
     search_term = parsed["search_term"]
     mode = parsed["mode"]
 
+    print(f"DEBUG search_term: '{search_term}'")
+
+    # keep modifiers attached to the next word
+    raw_words = search_term.split()
+    items = []
+    i = 0
+    while i < len(raw_words):
+        modifiers = ["organic", "fresh", "whole", "low", "fat", "reduced", "non", "free"]
+        if raw_words[i] in modifiers and i + 1 < len(raw_words):
+            items.append(f"{raw_words[i]} {raw_words[i+1]}")
+            i += 2
+        else:
+            items.append(raw_words[i])
+            i += 1
+
+    print(f"DEBUG items: {items}")
+    all_lines = []
+
     results = search_kroger_api_all_stores(search_term)
     retrieved_context = build_context_from_results(results, mode)
 
-    if retrieved_context == "No matching products found.":
+    for item in items:
+        results = search_kroger_api_all_stores(item)
+        if results:
+            if mode == "most_expensive":
+                best = sorted(results, key=get_effective_price, reverse=True)[0]
+            else:
+                best = sorted(results, key=get_effective_price)[0]
+            
+            price = get_effective_price(best)
+            all_lines.append(
+                f"Store: {best['store_name']} | Item: {best['item_name']} | Price: ${price}"
+            )
+
+    if not all_lines:
         return GroceryResponse(
             prompt=prompt.prompt,
             answer="No matching products found."
         )
-
+    
+    retrieved_context = "\n".join(all_lines)
     answer = answer_with_context(prompt.prompt, retrieved_context)
 
     return GroceryResponse(
