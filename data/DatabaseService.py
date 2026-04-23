@@ -205,3 +205,36 @@ class DatabaseService:
         results = cursor.fetchall()
         db.close()
         return results
+        
+    def search_products_by_embedding(self, city, query_vector, k=5):
+        db = self.create_connection()
+        db.enable_load_extension(True)
+        sqlite_vec.load(db)
+        db.enable_load_extension(False)
+
+        cursor = db.cursor()
+        query = """
+            SELECT
+                s.store_name,
+                p.product_name,
+                p.brand,
+                sp.price,
+                sp.promo_price,
+                ge.distance
+            FROM grocery_embeddings ge
+            JOIN products p
+                ON p.rowid = ge.rowid
+            JOIN store_products sp
+                ON sp.product_id = p.product_id
+            JOIN stores s
+                ON s.store_id = sp.store_id
+            WHERE ge.embedding MATCH ?
+              AND k = ?
+              AND s.city = ?
+            ORDER BY ge.distance ASC
+            LIMIT ?
+        """
+        cursor.execute(query, (query_vector, k, city, k))
+        results = cursor.fetchall()
+        db.close()
+        return results
