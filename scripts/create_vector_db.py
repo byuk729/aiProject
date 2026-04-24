@@ -26,10 +26,13 @@ def serialize_vector(vector):
     return struct.pack(f"{len(vector)}f", *vector)
 
 
-def build_product_text(product_name, brand):
+def build_product_text(product_name, brand, category=None):
+    parts = [product_name]
     if brand:
-        return f"{product_name} by {brand}"
-    return product_name
+        parts.append(f"by {brand}")
+    if category:
+        parts.append(f"category: {category}")
+    return "search_document: " + ", ".join(parts)
 
 
 def chunked(items, size):
@@ -54,7 +57,7 @@ def populate_embeddings():
 
     products = db.execute(
         """
-        SELECT p.rowid, p.product_name, p.brand
+        SELECT p.rowid, p.product_name, p.brand, p.category
         FROM products p
         LEFT JOIN grocery_embeddings ge
           ON p.rowid = ge.rowid
@@ -66,7 +69,7 @@ def populate_embeddings():
     print(f"Need to embed {total} products")
 
     for batch_num, batch in enumerate(chunked(products, BATCH_SIZE), start=1):
-        texts = [build_product_text(product_name, brand) for _, product_name, brand in batch]
+        texts = [build_product_text(product_name, brand, category) for _, product_name, brand, category in batch]
 
         response = ollama.embed(
             model=EMBEDDING_MODEL,
@@ -76,7 +79,7 @@ def populate_embeddings():
 
         rows_to_insert = [
             (rowid, serialize_vector(vector))
-            for (rowid, _, _), vector in zip(batch, embeddings)
+            for (rowid, _, _, _), vector in zip(batch, embeddings)
         ]
 
         db.executemany(

@@ -213,6 +213,8 @@ class DatabaseService:
         db.enable_load_extension(False)
 
         cursor = db.cursor()
+        # sqlite-vec does not allow extra WHERE conditions alongside MATCH,
+        # so the KNN search runs first as a subquery and city is filtered after.
         query = """
             SELECT
                 s.store_name,
@@ -220,18 +222,21 @@ class DatabaseService:
                 p.brand,
                 sp.price,
                 sp.promo_price,
-                ge.distance
-            FROM grocery_embeddings ge
+                vec_search.distance
+            FROM (
+                SELECT rowid, distance
+                FROM grocery_embeddings
+                WHERE embedding MATCH ?
+                  AND k = ?
+            ) vec_search
             JOIN products p
-                ON p.rowid = ge.rowid
+                ON p.rowid = vec_search.rowid
             JOIN store_products sp
                 ON sp.product_id = p.product_id
             JOIN stores s
                 ON s.store_id = sp.store_id
-            WHERE ge.embedding MATCH ?
-              AND k = ?
-              AND s.city = ?
-            ORDER BY ge.distance ASC
+            WHERE s.city = ?
+            ORDER BY vec_search.distance ASC
             LIMIT ?
         """
         cursor.execute(query, (query_vector, k, city, k))
