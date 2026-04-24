@@ -1,4 +1,5 @@
 import os
+import re
 import sqlite3
 import struct
 import sqlite_vec
@@ -7,7 +8,6 @@ import ollama
 
 EMBEDDING_MODEL = "nomic-embed-text"
 EMBEDDING_DIM = 768
-BATCH_SIZE = 32
 
 
 def get_db():
@@ -26,24 +26,25 @@ def serialize_vector(vector):
     return struct.pack(f"{len(vector)}f", *vector)
 
 
-def build_product_text(product_name, brand, category=None):
-    parts = [product_name]
+def normalize_text(text):
+    text = text.strip().lower()
+    text = re.sub(r"\s+", " ", text)
+    return text
+
+
+def build_product_text(product_name, brand):
     if brand:
-        parts.append(f"by {brand}")
-    if category:
-        parts.append(f"category: {category}")
-    return "search_document: " + ", ".join(parts)
+        text = f"{product_name} by {brand}"
+    else:
+        text = product_name
+    return normalize_text(text)
 
 
-def chunked(items, size):
-    for i in range(0, len(items), size):
-        yield items[i:i + size]
-
-
-def create_vector_table(db):
+def reset_vector_table(db):
+    db.execute("DROP TABLE IF EXISTS grocery_embeddings")
     db.execute(
         f"""
-        CREATE VIRTUAL TABLE IF NOT EXISTS grocery_embeddings USING vec0(
+        CREATE VIRTUAL TABLE grocery_embeddings USING vec0(
             embedding float[{EMBEDDING_DIM}]
         )
         """
@@ -53,45 +54,44 @@ def create_vector_table(db):
 
 def populate_embeddings():
     db = get_db()
-    create_vector_table(db)
+    reset_vector_table(db)
 
     products = db.execute(
         """
-        SELECT p.rowid, p.product_name, p.brand, p.category
+        SELECT p.rowid, p.product_name, p.brand
         FROM products p
-        LEFT JOIN grocery_embeddings ge
-          ON p.rowid = ge.rowid
-        WHERE ge.rowid IS NULL
+        ORDER BY p.rowid ASC
         """
     ).fetchall()
 
     total = len(products)
     print(f"Need to embed {total} products")
 
-    for batch_num, batch in enumerate(chunked(products, BATCH_SIZE), start=1):
-        texts = [build_product_text(product_name, brand, category) for _, product_name, brand, category in batch]
+    for index, (rowid, product_name, brand) in enumerate(products, start=1):
+        normalized_text = build_product_text(product_name, brand)
 
         response = ollama.embed(
             model=EMBEDDING_MODEL,
-            input=texts
+            input=[normalized_text]
         )
-        embeddings = response["embeddings"]
+        vector = response["embeddings"][0]
 
-        rows_to_insert = [
-            (rowid, serialize_vector(vector))
-            for (rowid, _, _, _), vector in zip(batch, embeddings)
-        ]
-
-        db.executemany(
+        db.execute(
             "INSERT OR REPLACE INTO grocery_embeddings(rowid, embedding) VALUES (?, ?)",
-            rows_to_insert
+            (rowid, serialize_vector(vector))
         )
         db.commit()
 
-        print(f"Finished batch {batch_num}: embedded {min(batch_num * BATCH_SIZE, total)}/{total}")
+        print(
+            f"[{index}/{total}] rowid={rowid} "
+            f"product_name={product_name} "
+            f"brand={brand} "
+            f"normalized_text={normalized_text}"
+        )
 
     db.close()
     print("Done.")
+
 
 if __name__ == "__main__":
     populate_embeddings()
