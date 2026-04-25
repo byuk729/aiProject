@@ -131,8 +131,18 @@ def search_vector_db(city: str, search_term: str, k: int = 10) -> list[dict]:
 
 
 def search(city: str, search_term: str, k: int = 10) -> list[dict]:
-    results = search_normal_db(city, search_term, limit=k)
-    if results:
-        return results
+    """
+    Hybrid search: runs both normal DB and vector DB, merges results.
+    Exact DB matches come first, followed by vector matches not already in the DB results.
+    """
+    db_results = search_normal_db(city, search_term, limit=k)
 
-    return search_vector_db(city, search_term, k=k)
+    try:
+        vector_results = search_vector_db(city, search_term, k=k)
+    except RuntimeError:
+        return db_results
+
+    seen = {(r["store_name"], r["product_name"]) for r in db_results}
+    extra = [r for r in vector_results if (r["store_name"], r["product_name"]) not in seen]
+
+    return (db_results + extra)[:k]
