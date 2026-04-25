@@ -1124,6 +1124,7 @@
       "images": [
         {
           "perspective": "right",
+          "perspective": "right",
           "sizes": [
             {
               "size": "xlarge",
@@ -1586,6 +1587,7 @@
       "images": [
         {
           "perspective": "right",
+          "perspective": "right",
           "sizes": [
             {
               "size": "xlarge",
@@ -1754,6 +1756,7 @@
             "promo": 3,
             "expirationDate": {
               "value": "2026-04-08T03:59:59.999Z",
+              "value": "2026-04-08T03:59:59.999Z",
               "timezone": "Z"
             },
             "effectiveDate": {
@@ -1845,16 +1848,55 @@
               "unitOfMeasure": {
                 "code": "GRM",
                 "name": "Gram"
+                "code": "GRM",
+                "name": "Gram"
               }
             },
             {
-              "code": "SUGAD",
-              "description": "sugar, added",
-              "displayName": "Added Sugar",
+              "code": "SE",
+              "description": "selenium, total",
+              "displayName": "Selenium, total",
+              "percentDailyIntake": 45,
+              "quantity": 25,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MC",
+                "name": "Microgram"
+              }
+            },
+            {
+              "code": "MO",
+              "description": "molybdenum",
+              "displayName": "Molybdenum",
+              "percentDailyIntake": 20,
+              "quantity": 10,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MC",
+                "name": "Microgram"
+              }
+            },
+            {
+              "code": "FAPU",
+              "description": "fatty acids, total polyunsaturated",
+              "displayName": "Polyunsaturated Fat",
+              "quantity": 1,
               "precision": {},
               "unitOfMeasure": {
                 "code": "GRM",
                 "name": "Gram"
+              }
+            },
+            {
+              "code": "CHOL-",
+              "description": "cholesterol; method of determination unknown or variable",
+              "displayName": "Cholesterol",
+              "percentDailyIntake": 63,
+              "quantity": 190,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MGM",
+                "name": "Milligram"
               }
             },
             {
@@ -1928,8 +1970,8 @@
               "displayName": "Trans Fat",
               "precision": {},
               "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
+                "code": "MC",
+                "name": "Microgram"
               }
             },
             {
@@ -1939,8 +1981,8 @@
               "quantity": 2,
               "precision": {},
               "unitOfMeasure": {
-                "code": "GRM",
-                "name": "Gram"
+                "code": "E14",
+                "name": "Kilocalorie (international table)"
               }
             }
           ],
@@ -2133,6 +2175,7 @@
             "promo": 7.99,
             "expirationDate": {
               "value": "2026-04-08T03:59:59.999Z",
+              "value": "2026-04-08T03:59:59.999Z",
               "timezone": "Z"
             },
             "effectiveDate": {
@@ -2239,6 +2282,18 @@
               "unitOfMeasure": {
                 "code": "MGM",
                 "name": "Milligram"
+              }
+            },
+            {
+              "code": "BIOT",
+              "description": "biotin",
+              "displayName": "Biotin",
+              "percentDailyIntake": 35,
+              "quantity": 11,
+              "precision": {},
+              "unitOfMeasure": {
+                "code": "MC",
+                "name": "Microgram"
               }
             },
             {

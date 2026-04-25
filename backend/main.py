@@ -10,7 +10,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(BASE_DIR)
 sys.path.append(PROJECT_ROOT)
 
-from llm_pipeline import answer_with_context
+from backend.llm_pipeline import answer_with_context
 from scripts.search import search_kroger_api_all_stores
 
 app = FastAPI()
