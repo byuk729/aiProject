@@ -11,7 +11,7 @@ PROJECT_ROOT = os.path.dirname(BASE_DIR)
 sys.path.append(PROJECT_ROOT)
 
 from backend.llm_pipeline import answer_with_context
-from scripts.search import search_kroger_api_all_stores
+from backend.search.search_router import search
 
 app = FastAPI()
 
@@ -37,7 +37,7 @@ class GroceryResponse(BaseModel):
     
 # helper
 def get_effective_price(item):
-    return item["price_promo"] if item["price_promo"] else item["price_regular"]
+    return item["promo_price"] if item["promo_price"] else item["price"]
 
 # helper
 def parse_query(user_query: str) -> dict:
@@ -60,12 +60,17 @@ def parse_query(user_query: str) -> dict:
         mode = "cheapest"
 
     filler_words = cheapest_words + expensive_words + [
-    "what is", "whats", "where is", "where can i get",
-    "to buy", "buy", "find", "the", "price", "of", "and",
-    "i need", "i want", "near uva", "near me", "in charlottesville",
-    "budget around", "budget of", "with a budget", "budget",
-    "with", "near", "please", "around", "a"
-]
+        "what is", "whats", "where is", "where can i get",
+        "where can i buy", "where do i buy", "where do i get",
+        "where", "what", "how", "place",
+        "is", "are", "do", "does", "did",
+        "to buy", "buy", "get", "find",
+        "the", "price", "of", "and",
+        "i need", "i want", "i", "me",
+        "near uva", "near me", "in charlottesville",
+        "budget around", "budget of", "with a budget", "budget",
+        "with", "near", "please", "around", "a", "an"
+    ]
 
     cleaned = q
     # remove dollar amounts first
@@ -77,6 +82,10 @@ def parse_query(user_query: str) -> dict:
         cleaned = re.sub(rf'\b{re.escape(phrase)}\b', ' ', cleaned)
 
     search_term = " ".join(cleaned.split()).strip()
+
+    words = search_term.split()
+    words = [w for w in words if len(w) > 2]
+    search_term = " ".join(words)
 
     return {
         "search_term": search_term,
@@ -101,7 +110,7 @@ def build_context_from_results(results, mode):
     for item in results:
         price = get_effective_price(item)
         lines.append(
-            f"Store: {item['store_name']} | Item: {item['item_name']} | Price: {price}"
+            f"Store: {item['store_name']} | Item: {item['product_name']} | Price: {price}"
         )
 
     return "\n".join(lines)
@@ -114,45 +123,30 @@ def create_grocery_recs(prompt: Prompt) -> GroceryResponse:
 
     print(f"DEBUG search_term: '{search_term}'")
 
-    # keep modifiers attached to the next word
-    raw_words = search_term.split()
-    items = []
-    i = 0
-    while i < len(raw_words):
-        modifiers = ["organic", "fresh", "whole", "low", "fat", "reduced", "non", "free"]
-        if raw_words[i] in modifiers and i + 1 < len(raw_words):
-            items.append(f"{raw_words[i]} {raw_words[i+1]}")
-            i += 2
-        else:
-            items.append(raw_words[i])
-            i += 1
+    results = search("Charlottesville", search_term, k=30)
+    
+    results = [r for r in results if "egg" in r["product_name"].lower()]
 
-    print(f"DEBUG items: {items}")
-    all_lines = []
-
-    results = search_kroger_api_all_stores(search_term)
-    retrieved_context = build_context_from_results(results, mode)
-
-    for item in items:
-        results = search_kroger_api_all_stores(item)
-        if results:
-            if mode == "most_expensive":
-                best = sorted(results, key=get_effective_price, reverse=True)[0]
-            else:
-                best = sorted(results, key=get_effective_price)[0]
-            
-            price = get_effective_price(best)
-            all_lines.append(
-                f"Store: {best['store_name']} | Item: {best['item_name']} | Price: ${price}"
-            )
-
-    if not all_lines:
+    if not results:
         return GroceryResponse(
             prompt=prompt.prompt,
             answer="No matching products found."
         )
-    
-    retrieved_context = "\n".join(all_lines)
+
+    if mode == "most_expensive":
+        top_results = sorted(results, key=get_effective_price, reverse=True)[:3]
+    else:
+        top_results = sorted(results, key=get_effective_price)[:3]
+
+    lines = []
+
+    for item in top_results:
+        price = get_effective_price(item)
+        lines.append(
+            f"{item['store_name']} | {item['product_name']} | ${price}"
+        )
+
+    retrieved_context = "\n".join(lines)
     answer = answer_with_context(prompt.prompt, retrieved_context)
 
     return GroceryResponse(
