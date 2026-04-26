@@ -5,8 +5,13 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 BASE     = os.path.join(os.path.dirname(__file__), "../data/clean")
-products = pd.read_csv(os.path.join(BASE, "kroger_products.csv"))
+products = pd.concat([
+    pd.read_csv(os.path.join(BASE, "kroger_products.csv")),
+    pd.read_csv(os.path.join(BASE, "synthetic_products.csv")),
+], ignore_index=True)
 stores   = pd.read_csv(os.path.join(BASE, "stores.csv"))
+products["store_id"] = products["store_id"].astype(str)
+stores["store_id"]   = stores["store_id"].astype(str)
 catalog  = products.merge(stores, on="store_id", how="left")
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -34,7 +39,7 @@ def product_to_text(row) -> str:
     sale  = f"on sale for ${row.price_promo:.2f}" if pd.notna(row.price_promo) else f"regular price ${row.price_regular:.2f}"
     brand = row.brand if pd.notna(row.brand) else "store brand"
     return (
-        f"{row.item_name} by {brand}. "
+        f"{row.item_name} by {brand} at {row.store_name}. "
         f"Category: {row.category}. "
         f"Price: {sale}. "
         f"{snap}."

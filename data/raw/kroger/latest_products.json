@@ -794,7 +794,7 @@
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2025-10-01T05:31:35.998Z",
+              "value": "2025-10-01T05:01:12.247Z",
               "timezone": "Z"
             }
           },
@@ -1292,7 +1292,7 @@
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-01-14T06:43:42.624Z",
+              "value": "2025-10-01T06:28:03.363Z",
               "timezone": "Z"
             }
           },
@@ -2123,9 +2123,9 @@
           "itemId": "0001111063660",
           "favorite": false,
           "fulfillment": {
-            "curbside": true,
-            "delivery": true,
-            "inStore": true,
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
             "shipToHome": false
           },
           "price": {
@@ -2136,7 +2136,7 @@
               "timezone": "Z"
             },
             "effectiveDate": {
-              "value": "2026-04-01T01:43:19.106Z",
+              "value": "2026-04-01T02:03:27.873Z",
               "timezone": "Z"
             }
           },

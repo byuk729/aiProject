@@ -4,12 +4,17 @@ import axios from "axios"
 export type GroceryRequest = {
     prompt: string
 }
-
 export type GroceryResponse = {
   prompt: string;
   answer: string;
+  parsed: {
+    keywords: string[];
+    max_price: number | null;
+    snap_only: boolean;
+    on_sale: boolean;
+    brand: string | null;
+  };
 }
-
 export async function getGroceryRecs(
     prompt: GroceryRequest
 ): Promise<GroceryResponse> {
